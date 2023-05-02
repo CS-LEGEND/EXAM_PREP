@@ -1,0 +1,102 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/quiz_bg"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/question_bg"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="horizontal">
+			<TextView
+				android:id="@+id/qtext"
+				android:focusable="false"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Question"
+				android:textSize="20sp"
+				android:textColor="#000000" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/answers_bg"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="vertical">
+			<TextView
+				android:id="@+id/ch1"
+				android:focusable="false"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="4dp"
+				android:padding="8dp"
+				android:background="#FFFFFF"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="Choice 1"
+				android:textSize="18sp"
+				android:textColor="#006E85" />
+			<TextView
+				android:id="@+id/ch2"
+				android:focusable="false"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="4dp"
+				android:padding="8dp"
+				android:background="#FFFFFF"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="Choice 2"
+				android:textSize="18sp"
+				android:textColor="#006E85" />
+			<TextView
+				android:id="@+id/ch3"
+				android:focusable="false"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="4dp"
+				android:padding="8dp"
+				android:background="#FFFFFF"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="Choice 3"
+				android:textSize="18sp"
+				android:textColor="#006E85" />
+			<TextView
+				android:id="@+id/ch4"
+				android:focusable="false"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="4dp"
+				android:padding="8dp"
+				android:background="#FFFFFF"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="Choice 4"
+				android:textSize="18sp"
+				android:textColor="#006E85" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/btn_bg"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:orientation="horizontal">
+			<ImageView
+				android:id="@+id/show"
+				android:focusable="false"
+				android:layout_width="50dp"
+				android:layout_height="50dp"
+				android:src="@drawable/design_ic_visibility_1"
+				android:scaleType="fitXY" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

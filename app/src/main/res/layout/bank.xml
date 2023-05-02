@@ -1,0 +1,101 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/_coordinator"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/bg_layout"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:background="#FFFFFF"
+			android:orientation="vertical">
+			<LinearLayout
+				android:id="@+id/title_bg"
+				android:layout_width="match_parent"
+				android:layout_height="80dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="horizontal"
+				android:background="@drawable/bottom_border"
+				android:elevation="7dp">
+				<LinearLayout
+					android:id="@+id/back_bg"
+					android:layout_width="50dp"
+					android:layout_height="match_parent"
+					android:gravity="center_horizontal|bottom"
+					android:orientation="vertical">
+					<ImageView
+						android:id="@+id/back_img"
+						android:layout_width="50dp"
+						android:layout_height="50dp"
+						android:paddingLeft="12dp"
+						android:paddingTop="17dp"
+						android:paddingRight="12dp"
+						android:paddingBottom="7dp"
+						android:src="@drawable/ic_arrow_back_black"
+						android:scaleType="fitXY" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/title"
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:padding="8dp"
+					android:gravity="center_horizontal|bottom"
+					android:orientation="vertical"
+					android:layout_weight="1">
+					<TextView
+						android:id="@+id/title_tv"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text="Question Bank"
+						android:textSize="20sp"
+						android:textColor="#212121" />
+					<TextView
+						android:id="@+id/subtitle_tv"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginTop="5dp"
+						android:text="Introduction to Computer Science QB"
+						android:textSize="16sp"
+						android:textColor="#9E9E9E"
+						android:singleLine="true" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/share_bg"
+					android:layout_width="50dp"
+					android:layout_height="match_parent"
+					android:gravity="center_horizontal|bottom"
+					android:orientation="vertical">
+					<ImageView
+						android:id="@+id/more_img"
+						android:layout_width="50dp"
+						android:layout_height="50dp"
+						android:paddingLeft="16dp"
+						android:paddingTop="22dp"
+						android:paddingRight="16dp"
+						android:paddingBottom="10dp"
+						android:src="@drawable/gmi_more_vert"
+						android:scaleType="fitXY" />
+				</LinearLayout>
+			</LinearLayout>
+			<ListView
+				android:id="@+id/listview1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:choiceMode="none"
+				android:layout_gravity="center_horizontal|center_vertical" />
+		</LinearLayout>
+	</LinearLayout>
+	<com.google.android.material.floatingactionbutton.FloatingActionButton
+		android:id="@+id/_fab"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_margin="16dp"
+		android:layout_gravity="right|bottom"
+		app:srcCompat="@drawable/typ_arrow_back_outline" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
