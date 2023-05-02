@@ -1,0 +1,800 @@
+"It is a set of steps that defines how a task is performed:,",S
+"Coding,",
+"Program,",
+"Algorithm ,",1
+"Software,",
+"the algorithm for performing the task must be represented in a form that is compatible with the machine, that representation is called:,",S
+"Program ,",1
+"Encoding,",
+"Software,",
+"Computing,",
+"computer programs are:,",S
+"Printed on paper,",
+"Encoded in manner compatible with technology of machine,",
+"Displayed on computer screen,",
+"all of above,",1
+"the process of developing a program encoding, and inserting it into a machine,",S
+"decode ,",
+"coding,",1
+"hardware,",
+"algorithm,",
+"programs and algorithms are collectively called ...., but machinery itself is called ....:,",S
+"software, hardware,",1
+"software, programing ,",
+"hardware, programing,",
+"none of above,",
+"what will happen if no algorithm exists for solving a problem: ,",S
+"the solution depends on the level intelligence ,",
+"we can construct a machine to perform the task ,",
+"the solution of problem lies beyond the capabilities of machine,",1
+"none of above,",
+"one of the earlier computing devices was..., and the positions of beads moved back and forth on the rods represent...,",S
+"abacus, remainder value,",
+"abacus, stored value ,",1
+"abacus, returns value ,",
+"PC, stored value,",
+"what is the company that develop the software of PC ,",S
+"android,",
+"MAC,",
+"Microsoft,",1
+"none of above,",
+"the ability to connect individual computers in worldwide system is called,",S
+"internet,",1
+"W.W.W,",
+"search engines ,",
+"google,",
+"the system by which documents stored on computers throughout the internet could be linked together producing maze of linked information called,",S
+"PC ,",
+"internet,",
+"Microsoft,",
+"world wide web ,",1
+"Abstraction, creativity and internet are from ......,",S
+"The seven big ideas of computer science.,",1
+"Application of technology. ,",
+"Global economics.,",
+"Mechanical engineering.,",
+"science of algorithms drawing from such divers subjects as .....,",S
+"Mathematics,",
+"Engineering,",
+"Psychology,",
+"all of above,",1
+" It refers to the distinction between the external properties of an entity and details of the entity's external compositions :,",S
+"Impact,",
+"Abstraction,",1
+"Algorithm ,",
+"all of above,",
+"Abstraction is not limited to science and technology.,",S
+"True ,",1
+"False,",
+",",
+",",
+"Algorithms can process or transform digitally represented information in only one way.,",S
+"True ,",
+"False,",1
+",",
+",",
+"Computer hardware is capable of executing only relatively complex algorithmic steps.,",S
+"True ,",
+"False,",1
+",",
+",",
+"The internet has profound implications for our privacy and security of our information so ............  and ............  are important in our connected world.,",S
+"Cryptography, cybersecurity ,",1
+"Programming, cybersecurity,",
+"Cryptography, programming,",
+"none of above,",
+" ....................central role of algorithm in computer science .,",S
+"Limitations,",
+"Application,",
+"Execution,",
+"all of above,",1
+"Computer science has enormous social repercussions.,",S
+"True ,",1
+"False,",
+",",
+",",
+"To deal with the dilemmas posed by advancing computer technology is not important for those outside its immediate realm.,",S
+"True ,",
+"False,",1
+",",
+",",
+"All digitals are represented by :,",S
+"byte ,",
+"bit,",1
+"all of above,",
+"none of above,",
+"Boolean operations are :,",S
+"represent 1’s as true and 0’s as true.,",
+"represent 1’s as false and 0’s as true.,",
+"represent 1’s as true and 0’s as false.,",1
+"represent 1’s as false and 0’s as false.,",
+"A device that computes a Boolean operation :,",S
+"gate ,",
+"logical gate,",
+"all of above,",1
+"none of above,",
+"A circuit built from gates that can store one bit :,",S
+"flip-flops ,",1
+"RAM,",
+"SD card,",
+"ROM,",
+" Main memory is organized in manageable units called :,",S
+"byte ,",
+"bit,",
+"none,",
+"cells,",1
+"In computer’s main memory each cell is identifies in uniquely name called :,",S
+"place,",
+"address,",1
+"heading,",
+"all of above,",
+"computer’s main memory is often called :,",S
+"Read Only Memory,",
+"Random access memory.,",1
+"Mass memory,",
+"Secondary storage.,",
+"DRAM stand for :,",S
+"Dynamic memory,",1
+"Double memory.,",
+"all of above,",
+"none of above,",
+"In most modern computers RAM is constructed :,",S
+"analogous,",
+"parallel,",
+"all of above,",1
+"none of above,",
+"the binary system is based on power :,",S
+"ten,",
+"two,",1
+"eight,",
+"sixteen,",
+"mass storage is :,",S
+"secondary storage.,",1
+"main memory.,",
+"all of above,",
+"none of above,",
+"track is divided into small arcs called :,",S
+"cylinder,",
+"sectors,",1
+"all of above,",
+"none of above,",
+" ASCII stand for :,",S
+"American Standard Cade For Information Interchange.,",1
+"American National Standard Institute.,",
+"American Standard Cade For Interchange.,",
+"American Standard Cade For Information.,",
+"All of the following is image compassing except :,",S
+"GIF,",
+"MPEG,",1
+"JPEG,",
+"TIFF,",
+"A circuit that traps electrons in tiny silicon dioxide chambers :,",S
+"flash memory.,",1
+"SD cards.,",
+"RAM.,",
+"floppy disk.,",
+"2^10 byte equal :,",S
+"kilobyte,",1
+"megabyte,",
+"gigabyte,",
+"terabyte,",
+"bit patterns are used to represent information such as :,",S
+"numbers,",
+"images,",
+"sounds,",
+"all of above,",1
+"the left end bit of the conceptual row of bits in a main memory cell called :,",S
+"a. least signification bit.,",
+"b. most signification bit.,",1
+"c. high-order end.,",
+"d. both b&c.,",
+"All the following Boolean’s operation except :,",S
+"AND,",
+"OR,",
+"NOT,",
+"none of above,",1
+"Flash drives , floppy disks , SD cards and DVDs are kind of :,",S
+"a. main memory.,",
+"b. mass storage.,",
+"c. secondary storage.,",
+"d. both b&c.,",1
+"it is the software that controls the overall operations of a computer,",S
+"application software,",
+"utility programs,",
+"operating system,",1
+"the users themselves,",
+"UNIX is an operating system which used in:,",S
+"mobile devices,",
+"large computer systems as well as PCs,",1
+"apple's mac machines,",
+"it is not an operating system,",
+"What does (FIFO) means :,",S
+"First In First Out,",1
+"First closed First In,",
+"For Out For In,",
+"Form in Form out,",
+"a very famous open source operating system :,",S
+"Mac OS,",
+"Android,",
+"Windows,",
+"Linux,",1
+"System software are categorized into:,",S
+"Applications and System,",
+"Utility and operating system,",1
+"none of these answers is correct,",
+"productivity and games,",
+"the operating system is constructed of:,",S
+"Applications and System,",
+"Utility and Operating systems,",
+"User Interface and Kernel,",1
+"productivity and games,",
+"what are embedded systems:,",S
+"systems used in PCs,",
+"systems used in servers,",
+"systems used in devices that are dedicated to specific tasks,",1
+"open source systems,",
+"software is categorized into :,",S
+"Applications and System,",1
+"Utility and Operating systems,",
+"User Interface and Kernel,",
+"productivity and games,",
+"the internal part of an operating system is called:,",S
+"kernel,",1
+"Utility programs,",
+"User Interface,",
+"applications,",
+"the boot loader is permanently stored in:,",S
+"RAM,",
+"ROM,",1
+"Hard disk,",
+"floppy disk,",
+"ROM is :,",S
+"Read Only Memory,",1
+"Random Accesses Memory,",
+"Read On Memory,",
+"Rewrite Only Memory,",
+"RAM is :,",S
+"Read Only Memory,",
+"Random Accesses Memory,",1
+"Read All Memory,",
+"ROM And Memory,",
+"the person who gains highly privileged access to the operating system :,",S
+"whose account is a user account,",
+"the one that does not login,",
+"who log in as the administrator,",1
+"anyone,",
+"used to control access to the operating system :,",S
+"login,",1
+"game console,",
+"power supply,",
+"access cannot be controlled,",
+"which one of these passwords is an example of a strong password :,",S
+"rola,",
+"12345678,",
+"mypassword,",
+"CA2tan4D&&DoG%103,",1
+"time slice typically measured in:,",S
+"grams,",
+"milliseconds or microseconds,",1
+"meters,",
+"hours,",
+"acts as an interface between the user and the operating system:,",S
+"graphical user interface,",1
+"kernel,",
+"algorithm,",
+"search engine,",
+"a chain of directories within directories is called :,",S
+"user,",
+"directory path,",1
+"windows,",
+"mouse,",
+"GUI means:,",S
+"algorithm,",
+"network,",
+"Graphical User Interface,",1
+"monitor,",
+"an important component within todays GUI shells  :,",S
+"windows manager ,",1
+"PlayStation,",
+"iPod,",
+"CPU ,",
+"Wireless disadvantage is:,",S
+"not expensive,",
+"easy to use,",
+"ease of installation,",
+"not safe,",1
+"Wireless advantages is    ,",S
+"a. not expensive,",
+"b. easy to use,",
+"c. slow,",
+"d. a&b,",1
+"Wireless area network – w Lan like:,",S
+"Wi-Fi,",1
+"WiMAX,",
+"GSM,",
+"BLUTOOTH,",
+"Wireless mitropolution network–w man like:,",S
+"Wi-Fi,",
+"WiMAX,",1
+"GSM,",
+"BLUTOOTH,",
+"wireless personal area network – w pan:,",S
+"Wi-Fi,",
+"WiMAX,",
+"GSM,",
+"BLUTOOTH,",1
+"...............is a kind of wireless network interface card – WNIC:,",S
+"USP – PCI – PCMCIA .,",1
+"W_repeater,",
+"AP,",
+"USP,",
+"It is used to strengthen the signal:,",S
+"W_ROUTER .,",
+"W_repeater,",1
+"AP,",
+"USP,",
+"It is used to decompress and congest the network:,",S
+"W_ROUTER .,",
+"W_repeater,",
+"AP,",
+"The bridge.,",1
+"It is used to connect different networks:,",S
+"W_ROUTER .,",1
+"W_repeater,",
+"AP,",
+"USP,",
+"It is used to  transmitting and receiving:,",S
+"W_ROUTER .,",
+"W_repeater,",
+"AP,",1
+"USP,",
+"the  AP  can act as  DHCP server:,",S
+"True ,",1
+"False,",
+",",
+",",
+"It is to connect all devices with each other via a wireless network card only, without the need for an access point AD_HOC:,",S
+"True ,",1
+"False,",
+",",
+",",
+"factors negatively affecting net work:   ,",S
+"Lots of clients,",
+"Difficulty spotting errors,",
+"Cutting or bending wires or cables,",
+"all of above,",1
+"The Internet is a global network that connects thousands of different types of networks around the world with each other:,",S
+"True ,",1
+"False,",
+",",
+",",
+"The factors that make the internet insecure and vulnerable to hackers can be:,",S
+"Computer viruses.,",
+"Adware.,",
+"Spy ware,",
+"all of above,",1
+"is a program that enters legitimately upon permission to install it and steals confidential files and numbers from your device:,",S
+"Worms viruses.,",
+"Time Bombs.,",
+"Trojan horse viruses,",1
+"none of above,",
+"...............is a network device or software for controlling network security and access rules.:,",S
+"Worms viruses.,",
+"Time Bombs.,",
+"Trojan horse viruses,",
+"Fire wall.    ,",1
+"global data are data items that  are automatically available to all modules throughout the system. ,",S
+"True ,",1
+"False ,",
+",",
+",",
+"it is a type of net work of  known as Ethernet:,",S
+"WAN,",
+"LAN,",1
+"MAN,",
+"PAN,",
+"..................... are a types of net works:,",S
+"WAN , PAN , CAN,",
+"LAN , SAN , P2P,",
+"MAN , VAN , client server net work,",
+"all of above,",1
+"The steps of an algorithm are:,",S
+"sequenced,",1
+"non-sequential,",
+"random,",
+"untidy,",
+"Primitive algorithm is:,",S
+"A high-level cryptographic algorithm.,",
+"A low-level cryptographic algorithm used as a basic building.,",1
+"all of above,",
+"none of above,",
+"A programming language is:,",S
+"A collection of primitive with a collection of rules.,",1
+"A collection of high-level cryptographic algorithm.,",
+"all of above,",
+"none of above,",
+"A notational system in which ideas can be expressed informally:,",S
+"Code,",
+"Execute code.,",
+"Pseudocode,",1
+"none of above,",
+"We use if-else statement for:,",S
+"Stopping program.,",
+"Repetition,",
+"Condition,",1
+"none of above,",
+"Iterative structures are:,",S
+"A collection of instructions is repeated in a looping manner.,",1
+"A collection of instructions which is not repeating.,",
+"all of above,",
+"none of above,",
+"A collection of instructions is called:,",S
+"The body of instructions.,",
+"The body of algorithm.,",
+"The body of loop.,",1
+"none of above,",
+"A simple sorting algorithm builds the final sorted array one item at a time by comparisons:,",S
+"Bubble sort.,",
+"Selection sort.,",
+"Insertion sort.,",1
+"none of above,",
+"A simple sorting begins by choose the smallest entry in the list and moving it to the front:,",S
+"Bubble sort.,",
+"Selection sort.,",1
+"Insertion sort.,",
+"none of above,",
+"Type of sorting is based on the process of repeatedly comparing two adjacent elements and interchange them if they are not in correct order:,",S
+"Bubble sort.,",1
+"Selection sort.,",
+"Insertion sort.,",
+"none of above,",
+"A variation of pascal casing is called...........,",S
+"camel casing,",1
+"base case ,",
+"degenerative case ,",
+"none of above,",
+"A proof of correctness proceeds by identifying statement called...........,",S
+"postconditions.,",
+"primitive,",
+"assertion,",1
+"none of above,",
+"A recursive function is designed to test for the termination condition called.............,",S
+"base case ,",
+"degenerative case ,",
+"all of above,",1
+"none of above,",
+"The reason why the algorithm is known as the binary search is...................,",S
+"divide _by _two approach ,",1
+"divide _by _there approach,",
+"divide _by _four approach,",
+"divide _by _five approach,",
+"The notation used to identify the classes is sometimes called.........notation.,",S
+"bubbel ,",
+"selection ,",
+"recursion ,",
+"big _theta,",1
+"A set of steps that define how a task is performed is an............,",S
+"analysis,",
+"test,",
+"algorithm,",1
+"none of above,",
+"The algorithm is known as ...........,",S
+"binary search,",
+"liner search,",
+"sequential search,",
+"all of above,",1
+"The......loop is pretest loop &the .........is posttest.,",S
+"for -while,",
+"while -do while,",1
+"do while -while,",
+"none of above,",
+"A proof of correctness bring with assumption that certain condition called..........,",S
+"a. precondition,",1
+"b. postconditione ,",
+"c. assertions,",
+"d. both a&c,",
+"The first step to solve a problem is to...........,",S
+"carry out the plane ,",
+"devisea plan for solving the problem,",
+"understand the problem,",1
+"evaluate the program for accuracy ,",
+" A part of the most large software engineering efforts:,",S
+"version control system,",1
+"Tools of the Trade,",
+"Dataflow,",
+"Data dictionary,",
+"Tool that has been used for years by software:,",S
+"Dataflow diagram,",
+"Data dictionary,",1
+"association,",
+"none of above,",
+"The more modern collection tool Known as :,",S
+"SQA,",
+"CRC,",
+"UML,",1
+"GOMS,",
+"Predeveloped model for solving a recurring problem in software design:,",S
+"design pattern,",1
+"class diagram,",
+"life line,",
+"none of above,",
+"Develop a set of test data that insures in the software is executed at least once:,",S
+"life line,",
+"basic bath,",1
+"beta testing,",
+"alpha testing,",
+"Example of black box testing is the technique called:,",S
+"pareto principle,",
+"basis bath,",
+"equivalence classes,",
+"boundary value analysis ,",1
+"Methodology that allows the actions of human using an interface to be analyzed ,",S
+"SQA,",
+"CRC,",
+"UML,",
+"GOMS,",1
+"explain the feature of the software and describe how to use them :,",S
+"system document,",
+"user documentation,",1
+"basic bath,",
+"none of above,",
+"describe the software’s internal composition so that the software can be maintained later in it’s life cycle :,",S
+" system document,",1
+"user documentation,",
+"basic bath,",
+"none of above,",
+"CRC means ,",S
+"Cyclic Redundancy check,",
+"Class-responsibility-collaboration,",1
+"computer market,",
+"none of above,",
+"By whom is unit testing done? ,",S
+"User ,",
+"Customers ,",
+"Developers ,",1
+"none of above,",
+"Which of the following is the first step of software life cyclin? ,",S
+"Implementation ,",
+"Design ,",
+"Requirements Analysis ,",1
+"Testing ,",
+"With reference to waterfall model, each phase must be completed before the_________can begin and there is no overlapping in the phases. ,",S
+"previous phase ,",
+"next phase ,",1
+"all of above,",
+"none of above,",
+"Users normally interact with the system via user interface provided by the application software ,",S
+"True ,",1
+"False ,",
+",",
+",",
+"Which of the following is an advantage of open source software? ,",S
+"you can edit the source code ,",1
+"you need to be an expert to edit code ,",
+"you have to pay ,",
+"can sometimes be too generic for specialist purpose ,",
+"modularity is the division of software into manageable units, each of them deals with only a part of the software’s overall responsibility. ,",S
+"True ,",1
+"False ,",
+",",
+",",
+"A stronger form of cohesion is known as functional cohesion ,",S
+"True ,",1
+"False ,",
+",",
+",",
+"A weak form of cohesion is known as logical cohesion. ,",S
+"True ,",1
+"False ,",
+",",
+",",0
+"The name for the way that computers manipulate data into information is called: ,",S
+"programming ,",
+"processing ,",1
+"organizing ,",
+"storing ,",
+"_______are data items that are automatically available to all modules throughout the system, as opposed to _______ items that are accessible only within a particular module unless explicitly passed to another.  ,",S
+"global data, local data  ,",1
+"local data, global data ,",
+"information, local data ,",
+"information, global data ,",
+"A collection of data that is multidimensional. ,",S
+"Database,",1
+"Sequential file. ,",
+"Metadata.,",
+"none of above,",
+"An information about other kind of data. ,",S
+"Database,",
+"File system,",
+"Metadata.,",1
+"none of above,",
+"A description of only that portion of the database pertinent to a particular user’s needs. ,",S
+"Schema,",
+"Subschema,",1
+"Metadata.,",
+"none of above,",
+"DBMS is a shortcut for:- ,",S
+"Database Manger System.,",
+"Database Manger Software. ,",
+"Database Management System. ,",1
+"Database Management Software. ,",
+"A software layer that manipulates a database in response to requests from applications. ,",S
+"DBMS,",1
+"File system. ,",
+"Database,",
+"none of above,",
+"Dividing the attributes of a relation into two or more relations. ,",S
+"Decomposition,",1
+"Select,",
+"Project,",
+"Join,",
+"A list of key values and the location of their associated record. ,",S
+"Locking,",
+"Index,",1
+"Hashing,",
+"Collision,",
+"Preventing others from accessing data being used by a transaction. ,",S
+"Locking,",1
+"Index,",
+"Hashing,",
+"Collision,",
+"A technique that provides similar access without such overhead.,",S
+"Locking,",
+"Index,",
+"Hashing,",1
+"Collision,",
+"Deals with identifying properties that divide two groups.,",S
+"Class description. ,",
+"Class discrimination. ,",1
+"Association analysis,",
+"Outlier analysis.,",
+"Deals with identifying properties that characterize a given group of data items. ,",S
+"Class description. ,",1
+"Class discrimination. ,",
+"Association analysis,",
+"Outlier analysis.,",
+"Data definition language is. ,",S
+"DDL,",1
+"DDI,",
+"BDL,",
+"DLD,",
+"Data manipulation language is. ,",S
+"DIM,",
+"DMC,",
+"DML,",1
+"DLM,",
+"SQL is a shortcut for. ,",S
+"Statement query language. ,",
+"Structure query language.,",1
+"Statement quality language. ,",
+"Structure quality language.,",
+"The select operation in a relation database model choose.,",S
+"Tuples,",1
+"Attribute,",
+"all of above,",
+"none of above,",
+"The project operation in a relation database model choose,",S
+"Tuples,",
+"Attribute,",1
+"all of above,",
+"none of above,",
+"The area of computer science that deals with discovering patterns in collections of data.,",S
+"Data mining. ,",1
+"Data warehouse. ,",
+"Data cube. ,",
+"none of above,",
+"What is data manipulation language ?,",S
+"DlM,",
+"DMC,",
+"DML,",1
+"none of above,",
+"The SQL is not a turning machine equivalent language?,",S
+"True ,",1
+"False ,",
+",",
+",",
+"What is structure query language?,",S
+"SQL,",1
+"SDL,",
+"SOL,",
+"none of above,",
+"It is a section of computer science that is concerned with the design and construction of computer systems with intelligent characteristics that qualify it to learn new concepts and tasks in response to surrounding conditions and are able to interact with humans by sound and image.,",S
+"artificial intelligence,",1
+"Databases,",
+"Software Engineering,",
+"graphics,",
+"All of the following are applications of artificial intelligence except:,",S
+"Voice recognition,",
+"Expert systems,",
+"Algorithm,",1
+"Natural language processing,",
+"It is used in many fields, the most important of which is medicine to diagnose some diseases:,",S
+"Expert systems,",1
+"Inference engine,",
+"Voice recognition,",
+"Artificial intelligence,",
+"It is a program that works in a specific field to treat specific problems using its own research tools and measures,",S
+"Inference engine,",
+"Intelligent agent,",1
+"Prolog,",
+"Knowledge base,",
+"one of the fields of artificial intelligence is ,",S
+"a. engineering field,",
+"b. psychology,",
+"c. Agriculture,",
+"d. a&b,",1
+"Among the most popular artificial intelligence programming languages:,",S
+"JAVA,",
+"HTML,",
+"ROISE,",1
+"PYTHON,",
+"Among the expert systems applications:,",S
+"SACON,",1
+"IPL,",
+"LISP,",
+"RITA,",
+"It is a logical language based on structure and branching, and it is most widespread in Europe and Japan,",S
+"IPL,",
+"RITA,",
+"SMALL TALK,",
+"PROLOG,",1
+"It is used to select the appropriate knowledge to solve the studied problems and devise the causes that lead to this solution:,",S
+"Knowledge base,",
+"substitution machine,",1
+"Explanation tool,",
+"Symbolic processing of data,",
+"Features of artificial intelligence systems:,",S
+"a. Symbolic processing,",
+"b. Inference engine,",
+"c. Inference making,",
+"d. a&c,",1
+"It is the ability to deal with non-numerical symbols in addition to numeric ones,",S
+"Learning mechanisms ,",
+"Sufficient solution,",
+"Symbolic processing ,",1
+"Meta-knowledge ,",
+"Components of expert systems are all of the following except:,",S
+"Meta-knowledge ,",1
+"User interface,",
+"Knowledge base ,",
+"Explanation facility,",
+"Advantages and characteristics of artificial intelligence languages:,",S
+"Flexibility of control ,",1
+"Dynamic knowledge,",
+"Human based interfacing,",
+"Sufficient solution,",
+"The ability to represent knowledge is of the :,",S
+"The advantages of artificial intelligence,",1
+"The goals of artificial intelligence,",
+"Fields of artificial intelligence,",
+"none of above,",
+"It allows the user to understand the logic and reasons behind the conclusions or results provided by the system by providing an explanation of the facts and rules to reach the results:,",S
+"The replacement machine,",
+"annotation tool,",1
+"knowledge base,",
+"The ability to draconclusions,",
+"It is from: LDS ,",S
+"a. Components of the expert system,",
+"b. The stages of development of the expert system,",
+"c. Applications of expert systems,",1
+"d. b&c,",
+"Prepared by: Image Analysis,",S
+"Artificial intelligence applications,",1
+"Applications of expert systems,",
+"Fields of artificial intelligence,",
+"Components of expert systems,",
+"is used in building expert systems to combat international terrorism:,",S
+"PITA ,",1
+"LISP ,",
+"IPL ,",
+"ROISE,",
+"From the stages of development of expert systems:,",S
+"the ability to conclude,",
+"the knowledge base,",1
+"symbolic processing of data,",
+"the database,",
+"It is done through a set of existing systems by laying foundations and rules to understand the association of words in the useful sentence: ,",S
+"Natural Language Processing,",1
+"symbolic processing of data ,",
+"The ability to draw conclusions,",
+"Ability to know ,",
