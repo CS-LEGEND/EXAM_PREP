@@ -40,7 +40,9 @@ import java.util.HashMap;
 import java.util.regex.*;
 import org.json.*;
 import android.text.method.DigitsKeyListener;
-import android.view.inputmethod.InputMethodManager;
+import android.view.inputmethod.InputMethodManager;
+
+
 
 public class BankActivity extends AppCompatActivity {
 	
@@ -312,7 +314,7 @@ public class BankActivity extends AppCompatActivity {
 		convertView.findViewById(R.id.qnum);
 		LinearLayout bg = (LinearLayout)
 		convertView.findViewById(R.id.bg);
-		_setEditTextRange(qnum, 1, 160);
+		_setEditTextRange(qnum, 1, 357);
 		_rippleRoundStroke(bg, "#FFFFFF", "#000000", 15, 0, "#000000");
 		_rippleRoundStroke(b1, "#F5F5F5", "#EEEEEE", 15, 2.5d, "#EEEEEE");
 		_rippleRoundStroke(b2, "#006E85", "#40FFFFFF", 15, 0, "#000000");
@@ -392,6 +394,11 @@ public class BankActivity extends AppCompatActivity {
 			final ImageView show = _view.findViewById(R.id.show);
 			
 			_setBGColors(ch1, ch2, ch3, ch4, ch1, ch2, ch3, ch4);
+			qtext.setTextIsSelectable(true);
+			ch1.setTextIsSelectable(true);
+			ch2.setTextIsSelectable(true);
+			ch3.setTextIsSelectable(true);
+			ch4.setTextIsSelectable(true);
 			qtext.setText(String.valueOf((long)(_position + 1)).concat(". ".concat(quiz.get(_position).qt)));
 			ch1.setText(quiz.get(_position).choice.get(0).at);
 			ch2.setText(quiz.get(_position).choice.get(1).at);
@@ -507,4 +514,4 @@ public class BankActivity extends AppCompatActivity {
 	public int getDisplayHeightPixels() {
 		return getResources().getDisplayMetrics().heightPixels;
 	}
-}
+}

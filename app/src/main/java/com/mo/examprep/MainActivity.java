@@ -391,6 +391,7 @@ public class MainActivity extends AppCompatActivity {
 
 	private void initializeLogic() {
 		readQuiz("CSFinalEx.csv", quiz, correct_index);
+		q_tv.setText("How many questions do you want to practice (1-" + quiz.size() + ")?");
 		_restoreUserPrefs();
 		_setUI(0);
 		if (quiz_progress.getString("isSaved", "").equals("Y")) {
@@ -863,7 +864,7 @@ public class MainActivity extends AppCompatActivity {
 			((EditText) qq).setSelection((int) qq.getText().toString().length(),
 					(int) qq.getText().toString().length());
 			qq.requestFocus();
-			_setEditTextRange(qq, 1, 160);
+			_setEditTextRange(qq, 1, 357);
 			ui_id = 0;
 		}
 		if (_ui_id == 1) {
@@ -1118,7 +1119,7 @@ public class MainActivity extends AppCompatActivity {
 		_rippleRoundStroke(bg, "#FFFFFF", "#000000", 15, 0, "#000000");
 		_rippleRoundStroke(b1, "#F5F5F5", "#E0E0E0", 15, 0, "#000000");
 		_rippleRoundStroke(b2, "#006E85", "#40FFFFFF", 15, 0, "#000000");
-		_setEditTextRange(et, 1, 160);
+		_setEditTextRange(et, 1, 357);
 		ch1.setChecked(all);
 		ch2.setChecked(rand);
 		ch3.setChecked(rAnswers);
