@@ -8,7 +8,7 @@ android {
 	useLibrary 'org.apache.http.legacy'
 	
 	defaultConfig {
-		applicationId "com.mo.examprep"
+		applicationId "com.statistics.examprep"
 		minSdkVersion 21
 		targetSdkVersion 28
 		versionCode 1
@@ -30,4 +30,5 @@ dependencies {
 	implementation 'com.google.android.material:material:1.4.0'
 	implementation 'com.google.code.gson:gson:2.8.7'
 	implementation 'com.squareup.okhttp3:okhttp:4.10.0'
+	implementation 'org.apache.commons:commons-lang3:3.12.0'
 }

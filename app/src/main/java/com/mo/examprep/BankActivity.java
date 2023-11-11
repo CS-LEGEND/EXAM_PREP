@@ -1,4 +1,4 @@
-package com.mo.examprep;
+package com.statistics.examprep;
 
 import android.animation.*;
 import android.app.*;
@@ -41,6 +41,7 @@ import java.util.regex.*;
 import org.json.*;
 import android.text.method.DigitsKeyListener;
 import android.view.inputmethod.InputMethodManager;
+import org.apache.commons.lang3.StringEscapeUtils;
 
 
 
@@ -314,7 +315,7 @@ public class BankActivity extends AppCompatActivity {
 		convertView.findViewById(R.id.qnum);
 		LinearLayout bg = (LinearLayout)
 		convertView.findViewById(R.id.bg);
-		_setEditTextRange(qnum, 1, 357);
+		_setEditTextRange(qnum, 1, 192);
 		_rippleRoundStroke(bg, "#FFFFFF", "#000000", 15, 0, "#000000");
 		_rippleRoundStroke(b1, "#F5F5F5", "#EEEEEE", 15, 2.5d, "#EEEEEE");
 		_rippleRoundStroke(b2, "#006E85", "#40FFFFFF", 15, 0, "#000000");
@@ -399,11 +400,23 @@ public class BankActivity extends AppCompatActivity {
 			ch2.setTextIsSelectable(true);
 			ch3.setTextIsSelectable(true);
 			ch4.setTextIsSelectable(true);
-			qtext.setText(String.valueOf((long)(_position + 1)).concat(". ".concat(quiz.get(_position).qt)));
+			qtext.setText(StringEscapeUtils.unescapeJava(String.valueOf((long)(_position + 1)).concat(". ".concat(quiz.get(_position).qt))));
+			
 			ch1.setText(quiz.get(_position).choice.get(0).at);
 			ch2.setText(quiz.get(_position).choice.get(1).at);
 			ch3.setText(quiz.get(_position).choice.get(2).at);
 			ch4.setText(quiz.get(_position).choice.get(3).at);
+			
+			// temporary solution
+			if(ch1.getText().toString().isEmpty())
+				ch1.setVisibility(View.GONE);
+			else
+				ch1.setVisibility(View.VISIBLE);
+			if(ch4.getText().toString().isEmpty())
+				ch4.setVisibility(View.GONE);
+			else
+				ch4.setVisibility(View.VISIBLE);
+				
 			if (isShowed.get(_position)) {
 				if (correct_index.get(_position) == 0) {
 					_markAnswer(ch1, ch1);
@@ -416,7 +429,7 @@ public class BankActivity extends AppCompatActivity {
 				}
 				if (correct_index.get(_position) == 3) {
 					_markAnswer(ch4, ch4);
-				}
+				} 
 				show.setImageResource(R.drawable.design_ic_visibility_2);
 			}
 			else {

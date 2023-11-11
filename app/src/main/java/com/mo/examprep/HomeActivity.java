@@ -1,4 +1,4 @@
-package com.mo.examprep;
+package com.statistics.examprep;
 
 import android.animation.*;
 import android.app.*;
@@ -37,7 +37,8 @@ import java.util.*;
 import java.util.HashMap;
 import java.util.regex.*;
 import org.json.*;
-import android.content.pm.PackageManager;
+import android.content.pm.PackageManager;
+
 
 public class HomeActivity extends AppCompatActivity {
 	
@@ -275,4 +276,4 @@ public class HomeActivity extends AppCompatActivity {
 	public int getDisplayHeightPixels() {
 		return getResources().getDisplayMetrics().heightPixels;
 	}
-}
+}

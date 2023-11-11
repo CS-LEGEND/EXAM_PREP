@@ -29,7 +29,7 @@
 			android:focusable="false"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
-			android:text="Enter the number of the question that you want to navigate to (1-357)"
+			android:text="Enter the number of the question that you want to navigate to (1-192)"
 			android:textSize="14sp"
 			android:textColor="#9E9E9E" />
 		<com.google.android.material.textfield.TextInputLayout

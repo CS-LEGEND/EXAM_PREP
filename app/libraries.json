@@ -28,5 +28,11 @@
     "excludes": [],
     "groupId": "com.squareup.okhttp3",
     "versionName": "4.10.0"
+  },
+  {
+    "artifactId": "commons-lang3",
+    "excludes": [],
+    "groupId": "org.apache.commons",
+    "versionName": "3.12.0"
   }
 ]

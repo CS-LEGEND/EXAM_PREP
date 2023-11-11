@@ -1,6 +1,6 @@
-package com.mo.examprep;
+package com.statistics.examprep;
 
-import com.mo.examprep.HomeActivity;
+import com.statistics.examprep.HomeActivity;
 import android.animation.*;
 import android.app.*;
 import android.app.Activity;
@@ -662,6 +662,23 @@ public class MainActivity extends AppCompatActivity {
 			ch3.setText(quiz.get((int) _in).choice.get(2).at);
 			ch4.setText(quiz.get((int) _in).choice.get(3).at);
 		}
+		// temporary soluation
+		if(ch1.getText().toString().isEmpty())
+			ch1.setVisibility(View.GONE);
+		else
+			ch1.setVisibility(View.VISIBLE);
+		if(ch2.getText().toString().isEmpty())
+			ch2.setVisibility(View.GONE);
+		else
+			ch2.setVisibility(View.VISIBLE);
+		if(ch3.getText().toString().isEmpty())
+			ch3.setVisibility(View.GONE);
+		else
+			ch3.setVisibility(View.VISIBLE);
+		if(ch4.getText().toString().isEmpty())
+			ch4.setVisibility(View.GONE);
+		else
+			ch4.setVisibility(View.VISIBLE);
 	}
 
 	public void _markTrueOrFalse(final double _cn, final boolean _isTrue) {
@@ -864,7 +881,7 @@ public class MainActivity extends AppCompatActivity {
 			((EditText) qq).setSelection((int) qq.getText().toString().length(),
 					(int) qq.getText().toString().length());
 			qq.requestFocus();
-			_setEditTextRange(qq, 1, 357);
+			_setEditTextRange(qq, 1, 192);
 			ui_id = 0;
 		}
 		if (_ui_id == 1) {
@@ -1119,7 +1136,7 @@ public class MainActivity extends AppCompatActivity {
 		_rippleRoundStroke(bg, "#FFFFFF", "#000000", 15, 0, "#000000");
 		_rippleRoundStroke(b1, "#F5F5F5", "#E0E0E0", 15, 0, "#000000");
 		_rippleRoundStroke(b2, "#006E85", "#40FFFFFF", 15, 0, "#000000");
-		_setEditTextRange(et, 1, 357);
+		_setEditTextRange(et, 1, 192);
 		ch1.setChecked(all);
 		ch2.setChecked(rand);
 		ch3.setChecked(rAnswers);

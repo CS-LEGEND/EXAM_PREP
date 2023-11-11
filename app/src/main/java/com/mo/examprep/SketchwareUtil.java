@@ -1,4 +1,4 @@
-package com.mo.examprep;
+package com.statistics.examprep;
 import android.app.*;
 import android.content.*;
 import android.graphics.drawable.*;

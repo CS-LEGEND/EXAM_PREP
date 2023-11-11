@@ -1,1785 +1,960 @@
-"Heading tag,",
-"<p> ,",
-"<br> ,",
-"<head> ,",
-"<h1> ,",1
-"Main structure of the <head> of HTML ,",
-"<head> <meta charset="utf-2"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",
-"<head> <meta charset="utf-4"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",
-"<head> <meta charset="utf-92"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",
-"<head> <meta charset="utf-8"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",1
-"Align elements horizontally from left ,",
-"clear: left; ,",
-"float: left; ,",1
-"text-align: center; ,",
-"clear: both; ,",
-"Header tag,",
-"<header> </header> ,",1
-"<div> </div> ,",
-"<!doctype html> ,",
-"<body> </body> ,",
-"The placement of text farther to the right or left of the surrounding text, making it easier to understand the program's structure ,",
-"Padding ,",
-"Indentation ,",1
-"Spacing Between Elements ,",
-"Syntax ,",
-"Changing the thickness of text ,",
-"https (hypertext Transfer protocol secure) ,",
-"font-weight: normal; OR font-weight: bold; ,",1
-"font-size: 10px; ,",
-"float: left; ,",
-"provided additional information about HTML elements ,",
-"Single-select menu attributes ,",
-"Html element ,",
-"Text attribute ,",
-"HTML attributes ,",1
-"A division element to divide the <body> of HTML ,",
-"<div> </div> ,",1
-"<span> </span> ,",
-"<del> </del> ,",
-"<header> </header> ,",
-"The set of communication protocols for the transfer of data over the Internet. ,",
-"A modem ,",
-"Http (hypertext transfer protocol) ,",
-"TCP/IP (Transmission Control Protocol/Internet Protocol) ,",1
-"Html (hypertext markup language) ,",
-"Making an element align in the center. This could also be used with left or right. ,",
-"font-size: 4em; ,",
-"font-weight: bold; ,",
-"text-align: center; ,",1
-"html element ,",
-"A CSS property that aligns elements to the right or left. ,",
-"float ,",1
-"int ,",
-"syntax ,",
-"padding ,",
-"Ordered list tag (numbered list) ,",
-"<ul> ,",
-"<ol> ,",1
-"<br> ,",
-"<li> ,",
-"A collection of interlinked web pages on the World Wide Web ,",
-"web page ,",
-"webfarm ,",
-"hyperlink ,",
-"website ,",1
-"The part of a CSS rule which specifies the type of modification to apply to HTML elements. (Compare it to an attribute). ,",
-"conditionals ,",
-"property ,",1
-"value ,",
-"parameter ,",
-"paragraph tag,",
-"<br> ,",
-"<p> ,",1
-"<li> ,",
-"<h1> ,",
-"File which contains CSS information to format a web page. ,",
-"css ,",
-"stylesheet ,",1
-"web browsers ,",
-"html attributes ,",
-"Font size of 10 pixel for CSS ,",
-"<body> ,",
-"font-size: 20px; ,",
-"margin: 10px; ,",
-"font-size: 10px; ,",1
-"Contains information (sometimes called "metadata") about your web page ,",
-"padding ,",
-"<head> ,",1
-"<p> ,",
-"<body> ,",
-"a character or string incorrectly placed in a command or instruction that causes a failure in execution. ,",
-"syntax error ,",1
-"logic error ,",
-"runtime error ,",
-"html element ,",
-"defines how messages are formatted and transmitted and what actions Web servers and bowsers should take in responses to various commands ,",
-"Html (hypertext markup language) ,",
-"HTTPS (Hypertext Transfer Protocol Secure) ,",1
-"Smb (server message block) ,",
-"Ftp (file transfer protocol) ,",
-"unique web address for every webpage ,",
-"Html (hypertext Markup Language) ,",
-"Dns (domain Name System) ,",
-"Alt tags ,",
-"URL (Uniform Resource Locator) ,",1
-"Unordered list (Bullet list) ,",
-"<ul> ,",1
-"<br> ,",
-"<ol> ,",
-"<li> ,",
-"The space inside of an element, separating its contents from its outer edge ,",
-"padding ,",1
-"margin ,",
-"border ,",
-"float ,",
-"Application programs that enable you to explore the Web by clicking hyperlinks in Web pages stored on Web sites. ,",
-"search engines ,",
-"web services ,",
-"web spider ,",
-"web browsers ,",1
-"Comment,",
-"<comment> </comment> ,",
-"\ \ ,",
-"/ / ,",
-"<!-- --> ,",1
-"Arrangement of words and symbols in a language. ,",
-"Float ,",
-"Syntax ,",1
-"Semantics ,",
-"Tags ,",
-"Defines an image in a web page ,",
-"<ul> ,",
-"<body> ,",
-"<br> ,",
-"<img> ,",1
-"feature added to HTML that gives both Web site developers and users more control over how pages are displayed. Allows designers and users to define how different elements, such as headers and links, appear. ,",
-"<!doctype html> ,",
-"Url (uniform Resource Locator) ,",
-"Html (hypertext Markup Language) ,",
-"CSS (Cascading Style Sheets) ,",1
-"Tells the computer that this is a document written in HTML ,",
-"<!DOCTYPE html> ,",1
-"<p> ,",
-"<li> ,",
-"<div> </div> ,",
-"are the parts of the code (keywords) that specify formatting for all elements in the document. ,",
-"<body> ,",
-"Script ,",
-"Syntax ,",
-"Tags ,",1
-"A piece of a website, marked by a start tag and often closed with an end tag ,",
-"Html Attributes ,",
-"Section Element ,",
-"HTML Element ,",1
-"<div> </div> ,",
-"a language used to create web pages ,",
-"Html element ,",
-"HTML (Hypertext Markup Language) ,",1
-"Css (cascading Style Sheets) ,",
-"Ftp (file Transfer Protocol) ,",
-"website address,",
-"Lan (local area network) ,",
-"Isp - Internet Service Provider ,",
-"URL - Uniform Resource Locator ,",1
-"Man - Metropolitan Area Network ,",
-"Any character that shows up as a blank space on the screen, such as a space, a tab, or a new line; helps separate different parts of the document to make it easier to read ,",
-"Indentation ,",
-"Syntax ,",
-"Whitespace ,",1
-"Padding ,",
-"Standard network protocol used to transfer computer files between a client and server on a computer network. ,",
-"FTP (File Transfer Protocol) ,",1
-"Ssh (secure shell) ,",
-"Dhcp (dynamic host configuration protocol) ,",
-"Http (hypertext Transfer Protocol) ,",
-"Basic structure of HTML,",
-"<head> <meta charset="utf-8"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",
-"<!DOCTYPE html> ,",
-"<!DOCTYPE html> <html> <head></head> <body> <h1></h1> <p></p> </body> </html> ,",1
-"font-weight: normal; OR font-weight: bold; ,",
-"descriptive words or phrases which accompany photos to identify what the image is when the image will not open or load ,",
-"Html tags ,",
-"Web page ,",
-"Html element ,",
-"Alt tags ,",1
-"body tag - Where the main content of a web page should be coded ,",
-"<ol> ,",
-"<body> ,",1
-"<head> ,",
-"<br> ,",
-"defines a list item.,",
-"<br> ,",
-"<li> ,",1
-"<ol> ,",
-"<ul> ,",
-"line break,",
-"<img> ,",
-"<br> ,",1
-"<li> ,",
-"<p> ,",
-"It changes something's color. Example code h1 { color: red; }. CSS comes equipped with 140 named colors, such as red, used above. For many situations, these named colors will suffice. However, web developers who want to get even more exact with their color choices can use hexadecimal and RGB color values. Hexadecimal color (#RRGGBB): Hexadecimal values that represent mixtures of red, green and blue. For example, red can be expressed with the hexadecimal value of #FF0000: the value ff represents red, 00 represents green, and 00 represents blue. RGB (Red, Green, Blue) colors: Color created by three numbers representing red, green, and blue. When mixed together, the three values create a specific color. For example: purple can be represented as rgb(128,0,128). ,",
-"external stylesheet css: float ,",
-"external stylesheet css: border ,",
-"external stylesheet css: color ,",1
-"&copy ,",
-"Click ctrl + 0,",
-"Ordered lists ,",
-"Tags and elements ,",
-"Inline css: color ,",
-"Resizing your browser ,",1
-"The display property that determines how the selected element will be arranged in relation to other HTML elements on the page. Two types of display. Block: each HTML element appears on its own line on the webpage. Or the elements can be displayed inline. While being displayed inline the elements appear on the same line as their neighboring elements on the webpage. ,",
-"external stylesheet css: font-family ,",
-"Universal selector ,",
-"external stylesheet css: display ,",1
-"external stylesheet css: padding ,",
-"HTML elements are also able to be selected by their attributes. Example: img[src] Selects <img src="myimage.png"> but not <img> Example: a[href="http://codecademy.com"] { color: purple; } / HTML Selected: <a href="http://codecademy.com"> / Example: input[type="text"] { width: 100px; } / HTML Selected: <input type="text"> / Example: input[required] { border: 1px red solid; } / HTML Selected: <input type="text" required> / ,",
-"Tables ,",
-"Attribute selectors ,",1
-"Unordered lists ,",
-"Pseudo class selectors ,",
-"Attributes contain extra information about the element which you don't want to appear in the actual content. An attribute should always have: A space between it and the element name (or the previous attribute, if the element already has one or more attributes.) The attribute name, followed by an equals sign Opening and closing quote marks wrapped around the attribute value. ,",
-"attribute ,",1
-"position:absolute ,",
-"link charset ,",
-"<meta> ,",
-"This tag tells the browser what to display as the page title at the top and tells search engines what the title of your site is. It goes inside <head> tags. Try and make your page titles descriptive, but not overly verbose. It is the fourth line of code in a website. Example: <title> HTML Glossary </title> ,",
-"Title ,",1
-"Display: Inline ,",
-"Nth-child ,",
-"Class ,",
-"This tag is used in a block of text to force a line break. This is to be used for things which are a single paragraph, but where this formatting is necessary such as poems or addresses. To separate paragraphs, separate each paragraph into a separate element instead. The resulting element on a web page will look like: Example: <p> Some text <br/> that spans two lines </p> ,",
-"Link rel ,",
-"Link type ,",
-"Line breaks ,",1
-"link rel ,",
-"Font-size can either be in px, rem, or em. Example code: h1 { font-size: 60px; } ,",
-"external stylesheet css: background-size ,",
-"external stylesheet css: font-family ,",
-"external stylesheet css: padding ,",
-"external stylesheet css: font-size ,",1
-"Unordered lists are just lists whose items are denoted with bullet points. <Ul> elements are unordered lists. <li> elements are each bullet points in the unordered list. Usually unordered lists are used in the navigation bar elements are used in the navigation bar Example: Shopping list <ul> <li>Dish soap</li> <li>Kitty litter</li> <li>Tomato sauce</li> </ul> ,",
-"Class ,",
-"Padding ,",
-"Link title ,",
-"Unordered lists ,",1
-"This attribute defines the sizes of the icons for visual media contained in the resource. It must be present only if the rel contains the icon link types value. It may have the following values: any, meaning that the icon can be scaled to any size as it is in a vectorial format, like image/svg+xml. a white-space separated list of sizes, each in the format <width in pixels>x<height in pixels> or <width in pixels>X<height in pixels>. Each of these sizes must be contained in the resource. ,",
-"position:absolute ,",
-"link sizes ,",1
-"link charset ,",
-"position:relative ,",
-"Individually setting the top padding ,",
-"text-shadow ,",
-"Padding-left ,",
-"Padding-top ,",1
-"Padding-right ,",
-"The video element adds a video to the webpage. The video elements is composed of many parts. width and height: Set the size of the screen that displays the video. controls: Adds play, pause and volume control. source src: Sets the URL of the video to play. type: Specifies different video formats. Example: <video width="320" height="240" controls> <source src="video-url.mp4" type="video/mp4"> </video> ,",
-"Link Crossorigin ,",
-"Link Media ,",
-"Video ,",1
-"Link Hreflang ,",
-"Heading elements like <h1>, <h2>, <h3>, <h4>, <h5>, and <h6> are six levels of document headings, ranging from largest to smallest, that allow you to break up the document into logical sections. For example, the word 'Headings' above is wrapped in a <h2> tag. Syntax: <h1> This is a header! </h1> ,",
-"Span ,",
-"Title ,",
-"Class ,",
-"Headings ,",1
-"When you give CSS a positive padding or margin value, it puts that space between the element and its reference: for instance, if you have a <div> and you give it a margin-left of 20px, it puts twenty pixels between the left margin of that <div> and the side of the screen. This effectively moves the <div> twenty pixels to the right. If you want to move an element in the other direction, you can give CSS a negative value: margin-left: -20px will move the element twenty pixels to the left. ,",
-"negative margin ,",1
-"line breaks ,",
-"position:absolute ,",
-"link type ,",
-"It makes a title on a table that spans across all the rows. By default, table cells take up 1 column. If we want a table cell to take up the space of 3 columns instead of 1, we can set the colspan attribute to 3. Example code: <th colspan="3">3 columns across!</th> ,",
-"th colspan ,",1
-"meta charset ,",
-"target_self ,",
-"child selectors ,",
-"a:link: An unvisited link. a:visited: A visited link. a:hover: A link you're hovering your mouse over. ,",
-"universal selector ,",
-"padding: value value value value ,",
-"link type ,",
-"pseudo class selector for links ,",1
-"If you want to grab direct children—that is, an element that is directly nested inside another element, with no elements in between—you can use the > symbol, like so: div > p { / Some CSS / } This only grabs <p>s that are nested directly inside of <div>s; it won't grab any paragraphs that are, say, nested inside lists that are in turn nested inside <div>s. ,",
-"Paragraphs ,",
-"base href ,",
-"> ,",1
-"first-child ,",
-"You can also select multiple types of elements and apply a single rule set to all of them. Include multiple selectors separated by commas. Example: p,li,h1 { color: red; } ,",
-"Link sizes ,",
-"Element selectors ,",
-"External stylesheet css: position ,",
-"Selecting multiple elements with css ,",1
-"An element that is an immediate descendent of another element or nested within another element is called a child. These become useful when using CSS child selectors and psuedo-elements. Example: <ul id="parent"> <li id="child">I'm a child of parent!</li> </ul> ,",
-"Tables ,",
-"Children ,",1
-"Nth-child ,",
-"Class ,",
-"Load the result into the same browsing context as the current one. This value is the default if the attribute is not specified. ,",
-"target_parent ,",
-"target_top ,",
-"th colspan ,",
-"target_self ,",1
-"In CSS, the background-image property sets a background image of your choice for a given selector, as seen below. Example code: h1 { background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg"); } ,",
-"external stylesheet css: position ,",
-"external stylesheet css: background-image ,",1
-"external stylesheet css: background-size ,",
-"external stylesheet css: font-size ,",
-"It controls the size of the chosen background image. Example code: h1{ background-size: cover; } ,",
-"external stylesheet css: padding ,",
-"external stylesheet css: float ,",
-"external stylesheet css: background-size ,",1
-"external stylesheet css: font-family ,",
-"It is a very special selector you can use to apply CSS styling to every element on the page. For example, if you type: * { border: 2px solid black; } You'll create a two-pixel wide solid black border around every element on the HTML page. ,",
-"px ,",
-"* ,",1
-"external stylesheet css: background-image ,",
-"em ,",
-"The title attribute has special semantics on the <link> element. When used on a <link rel="stylesheet"> it defines a preferred or an alternate stylesheet. Incorrectly using it may cause the stylesheet to be ignored. ,",
-"link title ,",1
-"semantic formatting ,",
-"&copy ,",
-"line breaks ,",
-"You can also select HTML elements by their Class name. Unlike ID selectors, Class selectors select all elements with a matching class. Example: .my-class Selects <p class="my-class"> and <a class="my-class"> Example: a.link { font-size: 12px; } /* HTML Selected: <a href="http://google.com" class="link">, <a href="http://codecademy.com" class="link jumbo"> */ Example: .jumbo { text-size: 1000px; } /* HTML Selected: <a href="http://codecademy.com" class="link jumbo">, <span class="jumbo"> */ ,",
-"Attribute selectors ,",
-"Link title ,",
-"Class name selectors ,",1
-"Pseudo class selectors ,",
-"Well done! You can actually select any child of an element after the first child with the pseudo-class selector nth-child; you just add the child's number in parentheses after the pseudo-class selector. For example, p:nth-child(2) { color: red; } Would turn every paragraph that is the second child of its parent element red. The element that is the child goes before :nth-child; its parent element is the element that contains it. ,",
-"children ,",
-"inline css: text-align ,",
-"th colspan ,",
-"nth-child ,",1
-"This attribute indicates the language of the linked resource. It is purely advisory. Allowed values are determined by BCP47. Use this attribute only if the href attribute is present. ,",
-"link hreflang ,",1
-"meta content ,",
-"video ,",
-"link charset ,",
-"&copy is a character code, which web browsers interpret as the copyright symbol: ©. ,",
-"&copy ,",1
-"link methods ,",
-"link media ,",
-"link type ,",
-"This makes the element a block box. It won't let anything sit next to it on the page! It takes up the full width. ,",
-"position:fixed ,",
-"meta content ,",
-"display: block ,",1
-"<base> ,",
-"<span> allows you to control styling for smaller parts of your page, such as text. For example, if you always want the first word of your paragraphs to be red, you can wrap each first word in <span></span> tags and make them red using CSS! Example code: <span style="color: red">Word</span> ,",
-"span ,",1
-"profile ,",
-"link sizes ,",
-"display: block ,",
-"When an element is set to position: absolute, it's then positioned in relation to the first parent element it has that doesn't have position: static. If there's no such element, the element with position: absolute gets positioned relative to <html>. ,",
-"negative margin ,",
-"line breaks ,",
-"position:absolute ,",1
-"link sizes ,",
-"Contains inline metadata, a base64-encoded cryptographic hash of a resource (file) you're telling the browser to fetch, that a user agent can use to verify that a fetched resource has been delivered free of unexpected manipulation. ,",
-"link integrity ,",1
-"attribute ,",
-"lists ,",
-"link charset ,",
-"This attribute is used to define the type of the content linked to. The value of the attribute should be a MIME type such as text/html, text/css, and so on. The common use of this attribute is to define the type of style sheet linked and the most common current value is text/css, which indicates a Cascading Style Sheet format. ,",
-"link type ,",1
-"link sizes ,",
-"link charset ,",
-"line breaks ,",
-"If you tell an element to clear: left, it will immediately move below any floating elements on the left side of the page; it can also clear elements on the right. If you tell it to clear: both, it will get out of the way of elements floating on the left and right! ,",
-"element selectors ,",
-"inline css: text-align ,",
-"element{ clear: /right, left, or both/} ,",1
-"display: inline-block ,",
-"HTML supports two kinds of lists: ordered lists and unordered lists. Within lists each individual list item has its own tag. ,",
-"Link Rel ,",
-"Lists ,",1
-"Link Integrity ,",
-"Link Media ,",
-"It will give you padding the same value on all sides for example: padding: 10px will give your HTML element 10 pixels of padding on all sides. ,",
-"margin:auto ,",
-"padding-left ,",
-"padding: value ,",1
-"padding bottom ,",
-"Load the result into a new unnamed browsing context. ,",
-"target_top ,",
-"target_blank ,",1
-"target_self ,",
-"target_parent ,",
-"The HTML <hr> element represents a thematic break between paragraph-level elements (for example, a change of scene in a story, or a shift of topic with a section). In previous versions of HTML, it represented a horizontal rule. It may still be displayed as a horizontal rule in visual browsers, but is now defined in semantic terms, rather than presentational terms. This tag creates a black line one pixel thick that runs the all the way across its container. It can be styled to look differently with CSS. It has no permitted content, because it is an empty element. It must have start tag, but must not have an end tag. It can be placed in any element that accepts flow content. Example: This text is divided <hr> ...from this text! ,",
-"Display: inline ,",
-"Horizontal rules ,",1
-"Nth-child ,",
-"Base href ,",
-"The URIs of one or more metadata profiles, separated by white space. ,",
-"&copy ,",
-"profile ,",1
-"properties ,",
-"base target ,",
-"Individually setting the right padding ,",
-"Padding-right ,",1
-"Padding Bottom ,",
-"Padding-left ,",
-"Padding: Value ,",
-"This enumerated attribute indicates whether CORS must be used when fetching the related image. CORS-enabled images can be reused in the <canvas> element without being tainted. The allowed values are: "anonymous", and "use-credentials". When not present, the resource is fetched without a CORS request (i.e. without sending the Origin: HTTP header), preventing its non-tainted used in <canvas> elements. If invalid, it is handled as if the enumerated keyword anonymous was used. ,",
-"link sizes ,",
-"link crossorigin ,",1
-"crossorigin "anonymous" ,",
-"negative margin ,",
-"A name or keyword indicating the default location to display the result when hyperlinks or forms cause navigation, for elements that do not have an explicit target reference. It is a name of, or keyword for, a browsing context (for example: tab, window, or inline frame). The following keywords have special meanings: _self, _blank, _parent, _top. Example code: <base target="_blank" href="http://www.example.com/page.html"> ,",
-"target_top ,",
-"inline css: text-align ,",
-"base target ,",1
-"position:absolute ,",
-"This attribute declares the character encoding used of the page. It can be locally overridden using the lang attribute on any element. This attribute is a literal string and must be one of the preferred MIME names for a character encoding as defined by the IANA. Though the standard doesn't request a specific character encoding, it gives some recommendations: Authors are encouraged to use UTF-8. Authors should not use ASCII-incompatible encodings (i.e. those that don't map the 8-bit code points 0x20 to 0x7E to the Unicode 0x0020 to 0x007E code points) as these represent a security risk: browsers not supporting them may interpret benign content as HTML Elements. This is the case of at least the following charsets: JIS_C6226-1983, JIS_X0212-1990, HZ-GB-2312, JOHAB, the ISO-2022 family, and the EBCDIC family. Authors must not use CESU-8, UTF-7, BOCU-1 and SCSU, also falling in that category and not intended to be used on the web. Cross-scripting attacks with some of these encodings have been documented. Authors should not use UTF-32 because not all HTML5 encoding algorithms can distinguish it from UTF-16. ,",
-"meta charset ,",1
-"html ,",
-"base target ,",
-"meta content ,",
-"A pseudo-class selector is a way of accessing HTML items that aren't part of the document tree. For example, we saw we could change a link's text-decoration property to make it something other than blue and underlined. Using pseudo selectors, you can control the appearance of unvisited and visited links—even links the user is hovering over but hasn't clicked! If there is a space between the selector and the pseudo class selector, then the code will not work. The CSS syntax for pseudo selectors is selector:pseudo-class_selector { property: value; } Example code: a:hover { color: #cc0000; font-weight: bold; text-decoration: none; } ,",
-"pseudo class selector ,",1
-"link type ,",
-"universal selector ,",
-"link sizes ,",
-"It is another useful pseudo-class selector. It's used to apply styling to only the elements that are the first children of their parents. For instance: p:first-child { color: red; } Would make all paragraphs that are the first children of their parent elements red. ,",
-"link disabled ,",
-"target_parent ,",
-"universal selector ,",
-"first-child ,",1
-"IDs, on the other hand, are great for when you have exactly one element that should receive a certain kind of styling. IDs are assigned to HTML elements with the word id and an equals sign: <div id="first"></div> <div id="second"></div> <p id="intro"></p> IDs are identified in CSS with a pound sign (#): #first { height: 50px; } #second { height: 100px; } #intro { color: #FF0000; } This allows you to apply style to a single instance of a selector, rather than all instances. An id attribute can only be used once because the id is unique to the element it is assigned to. Ids have greater specificity than classes. If an HTML element is using both id and class attributes, the CSS rule for the id will take precedence over that of the class. Below we will use an id selector to style a single HTML element differently than others of that kind on the webpage. Any HTML element can have an id attribute to identify it. id elements should always be unique to that single element, and each element should never have more than one id. Example: <div id="my-box">This is my box! Put your text in some other box.</div> ,",
-"id ,",1
-"Video ,",
-"alt ,",
-"meta charset ,",
-"This attribute gives the value associated with the http-equiv or name attribute, depending on the context. ,",
-"link charset ,",
-"html ,",
-"<base> ,",
-"meta content ,",1
-"Individually setting the bottom padding ,",
-"Padding bottom ,",1
-"Padding: value ,",
-"Padding-right ,",
-"Padding-left ,",
-"It changes font type. Example code: h1 { font-family: Georgia, serif; } Above, the font-family property of the h1 selector is set to the value of Georgia, with serif as a fallback font. Fallback fonts are included in case a visitor's web browser does not support the first font. Sometimes, more than one fallback font is included. ,",
-"external stylesheet css: flex ,",
-"external stylesheet css: font-family ,",1
-"external stylesheet css: background-image ,",
-"external stylesheet css: background-size ,",
-"Just add a semi-colon between each bit. For example: <h2 style="color: green; font-size:12px"> Some Text </h2> ,",
-"Inline css: How to change more than one thing about an attribute ,",1
-"What does HTML contribute to web pages? ,",
-"Inline css: font-family ,",
-"So what if you want to grab <p>s that are inside two <div>s, and not all <p>s? ,",
-"rem: Represents the default font size for the web browser. Rems can be used to ensure that HTML elements scale in proportion to each other on various web browsers and screen sizes. On most web browsers, 1rem is equivalent to 16px, 2rem is equivalent to 32px (a doubling), 3rem is equivalent to 48px (a tripling) and so on. ,",
-"class ,",
-"meta charset ,",
-"rem ,",1
-"target_blank ,",
-"Finally, fixed positioning anchors an element to the browser window—you can think of it as gluing the element to the screen. If you scroll up and down, the fixed element stays put even as other elements scroll past. ,",
-"negative margin ,",
-"<base> ,",
-"base target ,",
-"position:fixed ,",1
-"The <table> tag. Tables are very useful to store tabular data so it is easy to read! It is used when you want to present information neatly in a table with rows and columns. You can make rows in the table by using the <tr> tag/table row tag. The <td> elements adds table data. The <head> HTML tag contains information about a web page (e.g. its title), and in the same way, the <thead> tag can be thought of as containing information about a table. The <body> tag contains the contents of the web page. The <tbody> tag contains the tabular data. You add text to a <thead> similar to a <tbody>, like this: <thead> <tr> <th> Name </th> <th> Favorite Color </th> </tr> </thead> First we have an opening <thead> tag for the table head. Then we have an opening <tr> tag for the row. (to start the row) After that, a <th></th> cell for the Name column heading. Notice that we use <th></th> for the table heading cells instead of<td></td>. Then another <th></th> cell for the Favorite Color column heading. Finally, we close the row element with a closing </tr> tag, and close out the table heading element with a closing </thead> tag. Example: <tbody> <tr> <td>Banana</td> <td>$56.75</td> </tr> <tr> <td>Yogurt</td> <td>$12.99</td> </tr> </tbody> <tfoot> <tr> <td>Total</td> <td>$69.74</td> </tr> </tfoot> </table> ,",
-"Tables ,",1
-"Attribute Selectors ,",
-"Span ,",
-"Horizontal Rules ,",
-"Pseudo Selectors can be used to narrow down a selection with certain rules. Example: li:first-child { color: red; } /* This selects only <li> elements that have no elements before them <ul> <li>Selected; will be red</li> <li>Not selected</li> <li>Not selected</li> </ul> */ li:last-child { color: red; } / This does the opposite; only the last <li> will be red. / Example: a:hover { text-decoration: underline; } / Will underline all links when the user puts their mouse over them / a:active { font-weight: bold; } / Will make all links bold while the user is clicking on them. / ,",
-"Pseudo class selectors ,",1
-"Base href ,",
-"Child selectors ,",
-"Title ,",
-"Comments in CSS are signified by a forward-slash and asterisk. Example: / This is a single line comment / Example: /* This is a multi-line comment */ ,",
-"Comments in CSS ,",1
-"Class ,",
-"link integrity ,",
-"Link Title ,",
-"This attribute names a relationship of the linked document to the current document. The attribute must be a space-separated list of the link types values. The most common use of this attribute is to specify a link to an external style sheet: the rel attribute is set to stylesheet, and the href attribute is set to the URL of an external style sheet to format the page. WebTV also supports the use of the value next for rel to preload the next page in a document series. ,",
-"line breaks ,",
-"meta content ,",
-"link rel ,",1
-"lists ,",
-"Each CSS rule can have as many properties as you like. Each of them applies to the elements that the selector applies to. Example: h1 { font-size: 24px; font-weight: bold; border: 1px solid black; color: pink; } / This will make all <h1> headers big, bold, pink, and inside of a thin black rectangle! / ,",
-"Selecting multiple elements with css ,",
-"Defining many properties ,",1
-"Property value ,",
-"Pseudo class selector ,",
-"em: A relative value that changes in proportion to the size of the parent element. For example, if a parent element has font-size: 20px;, child elements with font-size: 1em; would be equivalent to 20px. Child elements with font-size: 0.5em; would be equivalent to 10px (a halving) and so on. ,",
-"em ,",1
-"span ,",
-"> ,",
-"link media ,",
-"You can easily format text to be bold, italic, or underlined using simple formatting tags. Example: This text is <b>bold</b>, <i>italicized</i>, and <u>underlined</u>. You can also use <strong>Text </strong> tags to make something bold. You can use <em>Text</em> tags to make something italicized. ,",
-"Child selectors ,",
-"Class name selectors ,",
-"Basic formatting/How to make things bold, italicized, and underlined ,",1
-"Selecting multiple elements with css ,",
-"px stands for pixels. Pixels is a standard unit of measurement for sizing fonts and other HTML elements. ,",
-"Div ,",
-"Lists ,",
-"display: block ,",
-"px ,",1
-"If you don't specify an element's positioning type, it defaults to static. This just means "where the element would normally go." If you don't tell an element how to position itself, it just plunks itself down in the document. ,",
-"position:static ,",1
-"position:absolute ,",
-"attribute ,",
-"margin:auto ,",
-"The border property can be used to visually define a page element's outer edge. In CSS, the border property's value requires three parts: thickness: Sets the thickness of the border, using pixels, ems, or rems. type: Sets the border type. Common options are solid, dotted, and dashed. There are many others. color: sets the border's color, using named colors, HEX, or RGB values. The CSS below gives a paragraph element a solid black border that is 2 pixels thick Example code: p { border: 2px solid black; } ,",
-"external stylesheet css: padding ,",
-"external stylesheet css: font-size ,",
-"external stylesheet css: flex ,",
-"external stylesheet css: border ,",1
-"This element sets the character set your document should use to utf-8, which includes most characters from all known human languages. Essentially it can now handle any textual content you might put on it. There is no reason not to set this, and it can help avoid some problems later on. ,",
-"<meta charset="utf-8"> ,",1
-"<meta charset="utf-3"> ,",
-"<meta charset="utf-16"> ,",
-"<meta charset="utf-4"> ,",
-"A cross-origin request (i.e. with Origin: HTTP header) is performed with credential is sent (i.e. a cookie, a certificate and HTTP Basic authentication is performed). If the server does not give credentials to the origin site (through Access-Control-Allow-Credentials: HTTP header), the image will be tainted and its usage restricted. ,",
-"base target ,",
-"meta content ,",
-"crossorigin "anonymous" ,",
-"crossorigin "use-credentials" ,",1
-"A class element groups elements together into sections of the web page, such as a navigation bar, the main body, and the footer. HTML elements can have one or more classes, separated by spaces. You can style elements using CSS by selecting them with their classes. Classes are useful when you have a bunch of elements that should all receive the same styling. Rather than applying the same rules to several selectors, you can simply apply the same class to all those HTML elements, then define the styling for that class in the CSS tab. Classes are assigned to HTML elements with the word class and an equals sign, like so: <div class="square"></div> <img class="square"/> <td class="square"></td> Classes are identified in CSS with a dot (.), like so: .square { height: 100px; width: 100px; } This allows you to take elements of different types and give them the same styling. Example: <div class="big-box yellow-box">This is a big yellow box.</div> ,",
-"class ,",1
-"title ,",
-"property value ,",
-"unordered lists ,",
-"Ordered lists' items are denoted with numbers. Example: My numbered list <ol> <li>First item!</li> <li>Second item!</li> <li>Last item!</li> </ol> ,",
-"Link Title ,",
-"Ordered Lists ,",1
-"Tables ,",
-"Attribute Selectors ,",
-"Links have a lot of the same properties as regular text: you can change their font, color, size, and so on. But links also have a property, text-decoration, that you can change to give your links a little more custom flair. Text decoration is what gives the link the underline. Example code: a { text-decoration: none; } ,",
-"display: inline ,",
-"text-shadow ,",
-"position:static ,",
-"text-decoration ,",1
-"To the right of the property, after the colon, we have the property value, to choose one out of many possible appearances for a given property (there are many color values besides red). ,",
-"Property value ,",1
-"<base> ,",
-"Attribute ,",
-"Target_parent ,",
-"The margin element sets the amount of space between an HTML element and the next nearest element(s). The CSS below ensures 2rems of space between elements with the class answer and surrounding page elements. .answer { margin: 2rem; }. The margin property creates space on all sides of a page element. It's also possible to set separate margin spacings on each side of an element. Additional margin properties: margin-top: Sets the top margin. margin-bottom: Sets the bottom margin. margin-left: Sets the left margin. margin-right: Sets the right margin. ,",
-"external stylesheet css: float ,",
-"external stylesheet css: margin ,",1
-"padding: value value value value ,",
-"external stylesheet css: flex ,",
-"You can write this: p { font-family: Tahoma, Verdana, sans-serif; } CSS will first try to apply Tahoma to your paragraphs. If the user's computer doesn't have that font, it will try Verdana next, and if that doesn't work, it will show a default sans-serif font. ,",
-"What does HTML contribute to web pages? ,",
-"What do you do if you are uncertain that a users computer can use the font-family you coded for? ,",1
-"Element selectors ,",
-"How do you make an image a link? ,",
-"If you say p { font-family: Garamond}, all 'p's will have the font Garamond. BUT if you say li p {font-family: Verdana}, 'p's outside of 'li's will be in Garamond, and 'p's INSIDE 'li's will be in Verdana. The more specific your selectors are, the higher importance CSS gives to the styling you apply! Greater specificity makes CSS prioritize that particular styling. ,",
-"external stylesheet css: display ,",
-"Commands overriding each other ,",1
-"external stylesheet css: flex ,",
-"padding: value value value value ,",
-"HTML stands for Hyper Text Markup Language. It is the language used to create all websites. ,",
-"LINK HREFLANG ,",
-"BASE HREF ,",
-"HTML ,",1
-"PADDING ,",
-"It is short for the alternative attribute. In this attribute, you specify descriptive text for users who cannot see the image, because they are visually impaired, or if something goes wrong causing the image not to display the alt text will replace the image. The key words about alt text are "descriptive text". In the alt text you write should provide the reader with enough information to have a good idea of what the image conveys. Example: <img src="images/firefox-icon.png" alt="My test image"> ,",
-"link charset ,",
-"padding: value ,",
-"<meta> ,",
-"alt ,",1
-"Tags are basic labels that define and separate parts of your markup into elements. They are comprised of a keyword surrounded by angle brackets <>. Content goes between two tags and the closing one is prefixed with a slash (Note: there are some self-closing HTML tags, like image tags). Tags also have attributes, which are Syntax: <tag attribute='value'>content</tag keyword> ,",
-"Link Media ,",
-"Base Href ,",
-"Link Rev ,",
-"Tags and Elements ,",1
-"Often it is nice to be able to move the text around. To do so, we again use the style attribute. And then we use "text-align:left" (or right, or center) to determine the location of the text. <h1 style="text-align:center"> Some Text </h1> ,",
-"Link type ,",
-"Inline css: text-align ,",1
-"Inline css: color ,",
-"Display: inline-block ,",
-"The HTML <base> element specifies the base URL to use for all relative URLs contained within a document. There can be only one <base> element in a document. The base tag has no content inside it/it is an empty element. There is no closing tag for the base element. The permitted parent elements of a base tag is any <head> that doesn't contain any other <base> elements. It can have to forms: base href= or base target=. Example: <base href="http://www.example.com/page.html"> <base target="_blank" href="http://www.example.com/page.html"> ,",
-"padding: value ,",
-"<base> ,",1
-"<meta> ,",
-"margin:auto ,",
-"This attribute specifies the media which the linked resource applies to. Its value must be a media query. This attribute is mainly useful when linking to external stylesheets by allowing the user agent to pick the best adapted one for the device it runs on. ,",
-"link media ,",1
-"link charset ,",
-"meta content ,",
-"&copy ,",
-"The margin is the space around the element. The larger the margin, the more space between our element and the elements around it. We can adjust the margin to move our HTML elements closer to or farther from each other. Here, the div with id 'box' will get 10px of margin above and below it, and 5px of margin to the left and right. Example: #box { margin: 10px 5px 10px 5px; } ,",
-"Property Value ,",
-"Margin ,",1
-"Span ,",
-"Padding ,",
-"The CSS position property enables you to position HTML elements in exact locations on a webpage. One useful value for this property is relative. This value positions page elements on a webpage relative to where they would normally appear. By first setting position: relative;, you can then use the CSS properties top, left, bottom, and right to shift an element away from where it would have normally appeared on the page. The code snippet below moves a div with the class container 10px away from the up and 20px away from the left side of the page. .container { position: relative; top: 10px; left: 20px; } ,",
-"external stylesheet css: position ,",1
-"external stylesheet css: flex ,",
-"external stylesheet css: background-image ,",
-"external stylesheet css: border ,",
-"Background-color is the color behind an element's content and padding. The style attribute is used again, and you set it equal to "background-color: red" (or whatever color you want). For example, here's how to change the background color of a the <body> tag to red: <body style="background-color: red;">Hello!</p> ,",
-"Inline css: background-color ,",1
-"External stylesheet css: display ,",
-"Inline css: text-align ,",
-"Inline css: color ,",
-"The base URL to be used throughout the document for relative URL addresses. This attribute specifies the URL of the linked resource. A URL might be absolute or relative. If this attribute is specified, this element must come before any other elements with attributes whose values are URLs. Absolute and relative URLs are allowed. It can be a link to another website when used in the form a href. ,",
-"base target ,",
-"base href ,",1
-"html ,",
-"link disabled ,",
-"This makes the element sit on the same line as another element, but without formatting it like a block. It only takes up as much width as it needs (not the whole line). ,",
-"display: inline ,",1
-"<base> ,",
-"margin:auto ,",
-"link type ,",
-"ID selectors are used to select only a single item on a page. Like the term ("identification") indicates, ID selectors will ONLY select the first element with a matching ID. The element on the page with the specified ID (on a given HTML page, you're only allowed one element per ID). Example: #my-id Selects <p id="my-id"> or <a id="my-id"> Example: #thatThingINeededToStyle { color: blue; font-size: 24px; } / HTML Selected: <span id="thatThingINeededToStyle"> / Example: a#codecademy { color: purple; } / HTML Selected: <a href="http://codecademy.com" id="codecademy"> / ,",
-"Attribute selectors ,",
-"ID selectors ,",1
-"Class ,",
-"Pseudo class selectors ,",
-"Ways in which you can style a given HTML element. (In this case, color is a property of the p elements.) In CSS, you choose which properties you want to affect in your rule. ,",
-"Display: Inline-block ,",
-"Position:absolute ,",
-"Properties ,",1
-"Link Sizes ,",
-"You can also set an element's margins all at once: you just start from the top margin and go around clockwise (going from top to right to bottom to left). For instance, margin: 1px 2px 3px 4px; will set a top margin of 1 pixel, a right margin of 2, a bottom of 3, and a left of 4. ,",
-"padding bottom ,",
-"declaration ,",
-"property value ,",
-"padding: value value value value ,",1
-"Syntax <h1 style="font-family: Arial">Title</h1> ,",
-"Inline css: color ,",
-"Inline css: text-align ,",
-"display: none ,",
-"Inline css: font-family ,",1
-"This attribute defines the character encoding of the linked resource. The value is a space- and/or comma-delimited list of character sets as defined in RFC 2045. The default value is iso-8859-1. ,",
-"html ,",
-"meta content ,",
-"link charset ,",1
-"link sizes ,",
-"The padding element sets the amount of space between an element's content and its border. Example code: p { padding: 20px; } ,",
-"external stylesheet css: flex ,",
-"external stylesheet css: padding ,",1
-"external stylesheet css: position ,",
-"external stylesheet css: border ,",
-"The float property is used to float HTML elements left or right of neighboring elements. Example code: p { float: left; } ,",
-"external stylesheet css: float ,",1
-"external stylesheet css: background-size ,",
-"external stylesheet css: margin ,",
-"external stylesheet css: display ,",
-"sets a drop shadow on the text inside an element ,",
-"text-shadow ,",1
-"inline css: text-align ,",
-"line breaks ,",
-"target_parent ,",
-"Relative positioning is more straightforward: it tells the element to move relative to where it would have landed if it just had the default static positioning. If you give an element relative positioning and tell it to have a margin-top of 10px, it doesn't move down ten pixels from any particular thing—it moves down ten pixels from where it otherwise would have been. ,",
-"position:relative ,",1
-"negative margin ,",
-"target_top ,",
-"position:absolute ,",
-"Load the result into the top-level browsing context (that is, the browsing context that is an ancestor of the current one, and has no parent). If there is no parent, this option behaves the same way as _self. ,",
-"target_self ,",
-"target_self ,",
-"target_blank ,",
-"target_top ,",1
-"A block level container (or 'division' of the web page) for content with no semantic meaning. Syntax: <div>This is a div element.</div> ,",
-"Div ,",1
-"Meta Charset ,",
-"Link Methods ,",
-"Unordered Lists ,",
-"A single rule like color: red; specifying which of the element's properties you want to style. ,",
-"Crossorigin "anonymous" ,",
-"Position:relative ,",
-"Target_top ,",
-"Declaration ,",1
-"This tells the document to automatically put equal left and right margins on our element, centering it on the page. ,",
-"margin:auto ,",1
-"<base> ,",
-"position:fixed ,",
-"padding: value ,",
-"The font-family property sets the font of an HTML element's text. Syntax: p { font-family: Arial, Helvetica, sans-serif; } ,",
-"nth-child ,",
-"padding ,",
-"font-family ,",1
-"selectors ,",
-"This makes the element a block box, but will allow other elements to sit next to it on the same line. ,",
-"display: inline-block ,",1
-"inline css: text-align ,",
-"position:fixed ,",
-"link disabled ,",
-"One of the most common tags in HTML - it denotes a paragraph of text. It often has other elements nested inside of it, such as <img/>, <a>, <strong> and <em>. You can use heading tags: <h1> through <h6> to change the size of the text in the paragraph. You could also use CSS to change the size of the text. Syntax: <p>This is paragraph text!</p> ,",
-"Pseudo Class Selectors ,",
-"Title ,",
-"Span ,",
-"Paragraphs ,",1
-"This makes the element and its content disappear from the page entirely! ,",
-"link hreflang ,",
-"display: none ,",1
-"profile ,",
-"link disabled ,",
-"width (of an element) Example: body { width: 600px } ,",
-"external stylesheet css: flex ,",
-"width ,",1
-"element selectors ,",
-"Lists ,",
-"The value of this attribute shows the relationship of the current document to the linked document, as defined by the href attribute. The attribute thus defines the reverse relationship compared to the value of the rel attribute. Link types values for the attribute are similar to the possible values for rel. ,",
-"negative margin ,",
-"link charset ,",
-"meta content ,",
-"link rev ,",1
-"A cross-origin request (i.e. with Origin: HTTP header) is performed. But no credential is sent (i.e. no cookie, no X.509 certificate and no HTTP Basic authentication is sent). If the server does not give credentials to the origin site (by not setting the Access-Control-Allow-Origin: HTTP header) the image will be tainted and its usage restricted. ,",
-"link sizes ,",
-"crossorigin "anonymous" ,",1
-"target_top ,",
-"declaration ,",
-"The HTML <meta> element represents any metadata information that cannot be represented by one of the other HTML meta-related elements (<base>, <link>, <script>, <style> or <title>). It has no permitted content/it is an empty element. There is no ending tag. It's permitted parent elements are <meta charset>, <meta http-equiv>: a <head> element. Depending on the attributes set, the kind of metadata can be one of the following: If name is set, it is document-level metadata, applying to the whole page. If http-equiv is set, it is a pragma directive, i.e. information normally given by the web server about how the web page should be served. If charset is set, it is a charset declaration, i.e. the charset used for the serialized form of the webpage. If itemprop is set, it is user-defined metadata, transparent for the user-agent as the semantics of the metadata is user-specific. ,",
-"padding: value ,",
-"attribute ,",
-"<meta> ,",1
-"<base> ,",
-"The value of this attribute provides information about the functions that might be performed on an object. The values generally are given by the HTTP protocol when it is used, but it might (for similar reasons as for the title attribute) be useful to include advisory information in advance in the link. For example, the browser might choose a different rendering of a link as a function of the methods specified; something that is searchable might get a different icon, or an outside link might render with an indication of leaving the current site. This attribute is not well understood nor supported, even by the defining browser, Internet Explorer 4. ,",
-"link charset ,",
-"link methods ,",1
-"base target ,",
-"position:relative ,",
-"Selectors are used in CSS to select the parts of the HTML that are being styled. You can use several different methods for selecting an element like element selectors, class name selectors etc. ,",
-"Title ,",
-"Nth-child ,",
-"Link Type ,",
-"Selectors ,",1
-"We use the style attribute. We make it equal to font-size, followed by a colon, the size you want, and end it with px (short for "pixels"). For example: <p style="font-size: 40px"> Some text </p> ,",
-"Link sizes ,",
-"Inline css: font-size ,",1
-"Inline css: text-align ,",
-"Inline css: color ,",
-"You are able to select HTML elements first by simply using the name of the element. It selects all HTML element(s) of the specified type. Example: body { background-color: #333; } Example: h1 { color: blue; } Example: a { text-underline: none; } ,",
-"Link type ,",
-"Attribute selectors ,",
-"Element selectors ,",1
-"Universal selector ,",
-"These tags are similar to the previously mentioned formatting tags which have fallen out of favor. The difference is that these tags have semantic value (meaning). <strong> is used for something that is important. Example: <p><strong><strong>Warning:</strong>Acid can cause severe burns</strong> </p> ,",
-"<meta charset="utf-8"> ,",
-"Semantic Formatting ,",1
-"Pseudo Class Selector ,",
-"Link Title ,",
-"This attribute is used to disable a link relationship. In conjunction with scripting, this attribute could be used to turn on and off various style sheet relationships. ,",
-"<base> ,",
-"first-child ,",
-"link sizes ,",
-"link disabled ,",1
-"The padding is the spacing between the content and the border (edge of the element.). We can adjust this value with CSS to move the border closer to or farther from the content. Here, the div with id 'box' will get 10px of padding all around it. Example: #box { padding: 10px; } ,",
-"Unordered Lists ,",
-"Padding ,",1
-"Margin ,",
-"Display: Inline ,",
-"To change the color of text, simply add the style attribute in the opening tag, then make the style equal to "color:blue" (or whatever color you like). For example: <h2 style="color:red"> Some text </h2> ,",
-"Base href ,",
-"Link type ,",
-"Inline css: text-align ,",
-"Inline css: color ,",1
-"Load the result into the parent browsing context of the current one. If there is no parent, this option behaves the same way as _self. ,",
-"target_self ,",
-"target_self ,",
-"margin:auto ,",
-"target_parent ,",1
-"The universal selector (*) may be used to select all the elements in a particular range. Be aware that the universal selector is the most performance taxing selector, and should be used sparingly. Example: * { background-color: blue; } / Selects ALL HTML elements in the page / Example: body * { color: red; } / Selects ALL children of the body / Example: div > * { color: red; } / Selects ALL first-level children of all divs on the page / ,",
-"Universal selector ,",1
-"Child selectors ,",
-"Pseudo class selector ,",
-"Link type ,",
-"Flex is a display value that allows us to easily align multiple page elements vertically or horizontally. Example code: { display: flex; }. We can make sure no element moves off the page by using flex-wrap: wrap; Finally, to center rows of elements, we can use justify-content: center; .parent { display: flex; flex-wrap: wrap; justify-content: center; } ,",
-"external stylesheet css: background-image ,",
-"external stylesheet css: flex ,",1
-"Attribute selectors ,",
-"external stylesheet css: display ,",
-"Individually setting the left padding ,",
-"Padding-right ,",
-"Padding: Value ,",
-"Padding-left ,",1
-"Padding Bottom ,",
-"You can also use multiple selectors to get the exact elements you want, by using parental nesting. By using the "greater-than" symbol (>), you can select only the direct children of an element, going down only one level. Example: ul > li { display: inline-block } / Selects only the first-level list items in all unordered lists in the HTML / Example: ul a { text-underline: none; } / Selects all anchors which have an unordered list their ancestry / Example: ul + span { display: inline; } / Selects only spans that directly follow an unordered list / Example: a ~ h1 { color: blue; } / Selects all h1 elements that are in the general vicinity of an anchor / ,",
-"Line breaks ,",
-"Attribute selectors ,",
-"Pseudo class selectors ,",
-"Child selectors ,",1
-"main.css is an external style sheet. Using external stylesheets is one of the most popular ways to write CSS. Inline CSS is another method. ,",
-"What is main.css? ,",1
-"position:fixed ,",
-"target_parent ,",
-"margin:auto ,",
-"HTML and CSS,",
-"How does external stylesheet css syntax? ,",
-"What are the two programming languages used in web pages? ,",1
-"How to pick colors using hex numbers ,",
-"How do you change how much space a element takes up? ,",
-"You can change it with the <height> and <width> elements. ,",
-"How does external stylesheet css syntax? ,",
-"What does CSS contribute to web pages? ,",
-"external stylesheet css: font-size ,",
-"How do you change how much space a element takes up? ,",1
-"External Stylesheet: CSS file that styles an HTML file externally via the HTML link element. ,",
-"pseudo class selector for links ,",
-"How do you view a webpage's source code ,",
-"So what if you want to grab <p>s that are inside two <div>s, and not all <p>s? ,",
-"What does the external stylesheet do? ,",1
-"You select those in the CSS tab like this: div div p { /CSS stuff!/ } ,",
-"What does the external stylesheet do? ,",
-"external stylesheet css: font-size ,",
-"Inline css: How to change more than one thing about an attribute ,",
-"So what if you want to grab <p>s that are inside two <div>s, and not all <p>s? ,",1
-"You create an <a> tag, and instead of putting text in the <a> tag you put an image tag there. ,",
-"What does CSS contribute to web pages? ,",
-"How do you change how much space a element takes up? ,",
-"How do you make an image a link? ,",1
-"How do you type elements? ,",
-"<element> </element> ,",
-"How do you change how much space a element takes up? ,",
-"How do you type elements? ,",1
-"Inline css: font-family ,",
-"What does HTML contribute to web pages? ,",
-"Example code: h1 { color: red; } ,",
-"What does CSS contribute to web pages? ,",
-"Commands overriding each other ,",
-"How do you view a webpage's source code ,",
-"How does external stylesheet css syntax? ,",1
-"CSS is used to control the design and layout of the page. ,",
-"external stylesheet css: font-size ,",
-"What does CSS contribute to web pages? ,",1
-"pseudo class selector for links ,",
-"element{ clear: /right, left, or both/} ,",
-"ctrl + U,",
-"external stylesheet css: background-size ,",
-"How to pick colors using hex numbers ,",
-"How do you view a webpage's source code ,",1
-"What does CSS contribute to web pages? ,",
-"HTML is used to establish a page's structure. It also lets us add text, links and images. ,",
-"What does the external stylesheet do? ,",
-"How do you make an image a link? ,",
-"external stylesheet css: font-size ,",
-"What does HTML contribute to web pages? ,",1
-"Search for "hex color palette" or "hex color picker" with your favorite web browser to find a bunch of options! ,",
-"Selecting multiple elements with css ,",
-"external stylesheet css: float ,",
-"Inline css: color ,",
-"How to pick colors using hex numbers ,",1
-"This symbol is used to shorten the jQuery element name. ,",
-"Hyperlink ,",
-"Dollar Sign - $ ,",1
-"Descendant selector ,",
-"Period . ,",
-"This symbol is used to style an individual element. ,",
-"The blockquote element ,",
-"Thumbnail ,",
-"Hashtag # ,",1
-"Period . ,",
-"The set of grouping symbols used for declaration statements. ,",
-"Braces { } ,",1
-"Semi-colon ; ,",
-"Hashtag # ,",
-"Ampersand & ,",
-"CSS is the acronym for what? ,",
-"Cascading Style Sheets ,",1
-"Document Object Model ,",
-"Hypertext Transfer Protocol ,",
-"Hypertext Markup Language ,",
-"Name the seven elements that are required for a valid HTML5 webpage. ,",
-"rect, circle, poly ,",
-"the textarea element. ,",
-"doctype, head, body, header, nav, main, footer. ,",1
-"semi-colon ; ,",
-"What is the order of cascade for styling a webpage? ,",
-"Browser default, external style sheet, embedded style sheet (internal), and inline styles. ,",1
-"Semi-colon ; ,",
-"header, main, footer, nav, section, article, aside, figure, figcaption ,",
-"It will make the background color of the body the color red. ,",
-"This is the term DOM.,",
-"Paragraph Element ,",
-"The Form Element ,",
-"Document Object Model ,",1
-"Jpg, Jpeg ,",
-"This element is used to anchor down hyperlinks. ,",
-"Dollar sign - $ ,",
-"Anchor Element <a></a> ,",1
-"The Textarea element. ,",
-"Descendant selector ,",
-"HTML is the acronym for what? ,",
-"Hyperlink ,",
-"HyperText Markup Language ,",1
-"Hypertext Transfer Protocol ,",
-"Cascading Style Sheets ,",
-"This is the term used to link webpages. ,",
-"Thumbnail ,",
-"Dollar Sign - $ ,",
-"Period . ,",
-"Hyperlink ,",1
-"This object takes several smaller images and combines them into a single large image. ,",
-"Period . ,",
-"Jpg, Jpeg ,",
-"Thumbnail ,",
-"Sprites ,",1
-"This punctuation mark ends all declaration statements. ,",
-"Braces { } ,",
-"Ampersand & ,",
-"Semi-colon ; ,",1
-"Period . ,",
-"Identify this element <p></p>. ,",
-"The Blockquote Element ,",
-"Src, Height, Width, Alt ,",
-"The Textarea Element. ,",
-"Paragraph Element ,",1
-"This CSS selector is used to identify an element nested in another element. ,",
-"Anchor Element <a></a> ,",
-"Dollar Sign - $ ,",
-"Descendant Selector ,",1
-"Sprites ,",
-"Name the three objects of a CSS declaration statement. ,",
-"Jpg, jpeg ,",
-"Cascading style sheets ,",
-"The blockquote element ,",
-"Selector, declaration property, declaration value ,",1
-"Name five of the nine block elements of HTML5. ,",
-"doctype, head, body, header, nav, main, footer. ,",
-"header, main, footer, nav, section, article, aside, figure, figcaption ,",1
-"src, height, width, alt ,",
-"The Form Element ,",
-"What three values are valid to determine the shape of an image map? ,",
-"jpg, jpeg ,",
-"braces { } ,",
-"rect, circle, poly ,",1
-"period . ,",
-"This image type is best used for photographs. ,",
-"Rect, Circle, Poly ,",
-"Thumbnail ,",
-"Sprites ,",
-"JPG, JPEG ,",1
-"This HTML5 element is used to structure a quote. ,",
-"Dollar Sign - $ ,",
-"Hyperlink ,",
-"The Blockquote Element ,",1
-"Hashtag # ,",
-"What will this CSS code produce, body {background-color: "red";}? ,",
-"Semi-colon ; ,",
-"It will make the background color of the body the color red. ,",1
-"header, main, footer, nav, section, article, aside, figure, figcaption ,",
-"Browser default, external style sheet, embedded style sheet (internal), and inline styles. ,",
-"body tag - Where the main content of a web page should be coded ,",
-"<br> ,",
-"<ol> ,",
-"<body> ,",1
-"<head> ,",
-"Basic structure of HTML,",
-"font-weight: normal; OR font-weight: bold; ,",
-"URL - Uniform Resource Locator ,",
-"<!DOCTYPE html> ,",
-"<!DOCTYPE html> <html> <head></head> <body> <h1></h1> <p></p> </body> </html> ,",1
-"Making an element align in the center. This could also be used with left or right. ,",
-"font-size: 4em; ,",
-"html element ,",
-"font-weight: bold; ,",
-"text-align: center; ,",1
-"website address,",
-"URL - Uniform Resource Locator ,",1
-"Isp - Internet Service Provider ,",
-"Lan (local area network) ,",
-"Man - Metropolitan Area Network ,",
-"Application programs that enable you to explore the Web by clicking hyperlinks in Web pages stored on Web sites. ,",
-"web browsers ,",1
-"web spider ,",
-"search engines ,",
-"web services ,",
-"A piece of a website, marked by a start tag and often closed with an end tag ,",
-"Html Attributes ,",
-"HTML Element ,",1
-"<div> </div> ,",
-"Section Element ,",
-"provided additional information about HTML elements ,",
-"HTML attributes ,",1
-"Text attribute ,",
-"Html element ,",
-"Single-select menu attributes ,",
-"are the parts of the code (keywords) that specify formatting for all elements in the document. ,",
-"<body> ,",
-"Script ,",
-"Syntax ,",
-"Tags ,",1
-"unique web address for every webpage ,",
-"Dns (domain Name System) ,",
-"URL (Uniform Resource Locator) ,",1
-"Html (hypertext Markup Language) ,",
-"Alt tags ,",
-"Font size of 10 pixel for CSS ,",
-"font-size: 10px; ,",1
-"margin: 10px; ,",
-"font-size: 20px; ,",
-"<body> ,",
-"Comment,",
-"\ \ ,",
-"/ / ,",
-"<comment> </comment> ,",
-"<!-- --> ,",1
-"Contains information (sometimes called "metadata") about your web page ,",
-"<head> ,",1
-"<p> ,",
-"<body> ,",
-"padding ,",
-"Heading tag,",
-"<head> ,",
-"<h1> ,",1
-"<p> ,",
-"<br> ,",
-"The space inside of an element, separating its contents from its outer edge ,",
-"border ,",
-"margin ,",
-"padding ,",1
-"float ,",
-"A collection of interlinked web pages on the World Wide Web ,",
-"website ,",1
-"webfarm ,",
-"hyperlink ,",
-"web page ,",
-"The set of communication protocols for the transfer of data over the Internet. ,",
-"Http (hypertext transfer protocol) ,",
-"Html (hypertext markup language) ,",
-"A modem ,",
-"TCP/IP (Transmission Control Protocol/Internet Protocol) ,",1
-"feature added to HTML that gives both Web site developers and users more control over how pages are displayed. Allows designers and users to define how different elements, such as headers and links, appear. ,",
-"CSS (Cascading Style Sheets) ,",1
-"<!doctype html> ,",
-"Html (hypertext Markup Language) ,",
-"Url (uniform Resource Locator) ,",
-"defines how messages are formatted and transmitted and what actions Web servers and bowsers should take in responses to various commands ,",
-"Ftp (file transfer protocol) ,",
-"Smb (server message block) ,",
-"HTTPS (Hypertext Transfer Protocol Secure) ,",1
-"Html (hypertext markup language) ,",
-"Unordered list (Bullet list) ,",
-"<ul> ,",1
-"<li> ,",
-"<br> ,",
-"<ol> ,",
-"defines a list item.,",
-"<ol> ,",
-"<br> ,",
-"<li> ,",1
-"<ul> ,",
-"A division element to divide the <body> of HTML ,",
-"<div> </div> ,",1
-"<del> </del> ,",
-"<span> </span> ,",
-"<header> </header> ,",
-"Standard network protocol used to transfer computer files between a client and server on a computer network. ,",
-"Dhcp (dynamic host configuration protocol) ,",
-"Ssh (secure shell) ,",
-"Http (hypertext Transfer Protocol) ,",
-"FTP (File Transfer Protocol) ,",1
-"a language used to create web pages ,",
-"Html element ,",
-"HTML (Hypertext Markup Language) ,",1
-"Css (cascading Style Sheets) ,",
-"Ftp (file Transfer Protocol) ,",
-"a character or string incorrectly placed in a command or instruction that causes a failure in execution. ,",
-"runtime error ,",
-"html element ,",
-"syntax error ,",1
-"logic error ,",
-"Any character that shows up as a blank space on the screen, such as a space, a tab, or a new line; helps separate different parts of the document to make it easier to read ,",
-"Syntax ,",
-"Padding ,",
-"Indentation ,",
-"Whitespace ,",1
-"Arrangement of words and symbols in a language. ,",
-"Float ,",
-"Semantics ,",
-"Syntax ,",1
-"Tags ,",
-"Tells the computer that this is a document written in HTML ,",
-"<!DOCTYPE html> ,",1
-"<p> ,",
-"<li> ,",
-"<div> </div> ,",
-"Ordered list tag (numbered list) ,",
-"<ul> ,",
-"<ol> ,",1
-"<br> ,",
-"<li> ,",
-"Main structure of the <head> of HTML ,",
-"<head> <meta charset="utf-92"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",
-"<head> <meta charset="utf-8"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",1
-"<head> <meta charset="utf-2"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",
-"<head> <meta charset="utf-4"><title></title><link rel="stylesheet" href="stylesheet.css"> </head> ,",
-"Defines an image in a web page ,",
-"<br> ,",
-"<img> ,",1
-"<ul> ,",
-"<body> ,",
-"Changing the thickness of text ,",
-"float: left; ,",
-"font-size: 10px; ,",
-"font-weight: normal; OR font-weight: bold; ,",1
-"https (hypertext Transfer protocol secure) ,",
-"paragraph tag,",
-"<br> ,",
-"<li> ,",
-"<h1> ,",
-"<p> ,",1
-"Align elements horizontally from left ,",
-"clear: left; ,",
-"clear: both; ,",
-"float: left; ,",1
-"text-align: center; ,",
-"Header tag,",
-"<div> </div> ,",
-"<header> </header> ,",1
-"<!doctype html> ,",
-"<body> </body> ,",
-"The part of a CSS rule which specifies the type of modification to apply to HTML elements. (Compare it to an attribute). ,",
-"value ,",
-"conditionals ,",
-"property ,",1
-"parameter ,",
-"A CSS property that aligns elements to the right or left. ,",
-"int ,",
-"syntax ,",
-"padding ,",
-"float ,",1
-"The placement of text farther to the right or left of the surrounding text, making it easier to understand the program's structure ,",
-"Syntax ,",
-"Padding ,",
-"Spacing Between Elements ,",
-"Indentation ,",1
-"line break,",
-"<br> ,",1
-"<p> ,",
-"<li> ,",
-"<img> ,",
-"File which contains CSS information to format a web page. ,",
-"stylesheet ,",1
-"html attributes ,",
-"web browsers ,",
-"css ,",
-"descriptive words or phrases which accompany photos to identify what the image is when the image will not open or load ,",
-"Html element ,",
-"Web page ,",
-"Html tags ,",
-"Alt tags ,",1
-"Which of the following is a reason for choosing a GUI editor to create a Web page? ,",
-"The three formats are .mp4, .webm. and .ogg. ,",
-"index.html ,",
-"Templates and wizards ,",
-"You can create Web pages by simply clicking your mouse. ,",1
-"Variable names cannot contain ____________ ,",
-"submit ,",
-"artifacts ,",
-"pitch ,",
-"spaces ,",1
-"Which form field offers square option buttons in a group of two or more options? ,",
-"Check box ,",1
-"Text box ,",
-"Submit button ,",
-"Input box ,",
-"What technology refers to hosted applications and services offered by a third party? ,",
-"Cloud computing ,",1
-"Search criteria ,",
-"Form element ,",
-"Client/server computing ,",
-"The _____________ style can be used to change label elements into block elements. ,",
-"display:block ,",1
-"list syntax ,",
-"display:inline ,",
-"check box ,",
-"The "type" attribute value for JavaScript is ____________. ,",
-"text/html ,",
-"text/JavaScript ,",1
-"image/gif ,",
-"text/css ,",
-"As a general rule, what is the maximum size your Web page should be? ,",
-"100 KB ,",1
-"50 Kb ,",
-"200 Kb ,",
-"1 Mb ,",
-"Which attribute has two possible values (get and post)? ,",
-"include ,",
-"input box ,",
-"a variable. ,",
-"method atribute ,",1
-"What <video> attribute is used to display an image until the play button is selected or the video loads? ,",
-"img ,",
-"message ,",
-"poster ,",1
-"print ,",
-"To associate a label with the control element with the id of "city" , you would enter________. ,",
-"field value ,",
-"a variable. ,",
-"the <input> tag. ,",
-"<label for="city"> ,",1
-"For a contiguous selection in a selection list, select the first item, press and hold the _______ , and then select the last item in the range. ,",
-"ctrl key ,",
-"shift key ,",1
-"tab key ,",
-"align panel ,",
-"How do you specify an option button as already selected? ,",
-"type= "hidden" ,",
-"checked="select" ,",
-"checked="on" ,",
-"checked="checked" ,",1
-"When you link a label with an associated text element for scripting purposes, you must bind the label to the ____ attribute of the field. ,",
-"action ,",
-"index.html ,",
-"first ,",
-"id ,",1
-"To what extent do GUI editors generally allow developers to modify HTML code manually? ,",
-"HTML5 APIs can extend the functionality of HTML by combining HTML5, CSS and JavaScript. ,",
-"Most GUI editors allow developers to modify HTML code manually, but may alter or ignore some or all manually entered HTML code. ,",1
-"Word processor. ,",
-"Use clean, valid markup, and use CSS to separate the presentation from the content; reduce margins and padding to provide more available space. ,",
-"If you request a file that does not exist on a Web server, what types of messages will you receive? (Name or describe at least two.) ,",
-"Hardware demands such as battery power and CPU usage are reduced when a plug-in is not used. This is especially important with regard to mobile devices, such as smartphones and tablets, that rely upon battery power. ,",
-"A standard HTTP 404 - File Not Found error message. A Web page with a customized File Not Found message, created by the Web server administrator or Web developer. An error message generated by the Web browser. ,",1
-"Most GUI editors allow developers to modify HTML code manually, but may alter or ignore some or all manually entered HTML code. ,",
-"The "password" value of the <input> tag type attribute, for example: <input type="password" name="Password" size="8"/> ,",
-"For non- contiguous selections from a selection list, on a PC, press and hold the ________ while you make your selections. ,",
-"shift key ,",
-"enter key ,",
-"alt key ,",
-"ctrl key ,",1
-"User-friendly Web page interfaces, such as a pleasing layout and accessible navigation, are considered to be what type of issues? ,",
-"Front-end issues. ,",1
-"Input box ,",
-"Interlacing. ,",
-"A variable. ,",
-"How can a Web site help differentiate a company from its competitors and make the company more competitive? ,",
-"By establishing and managing a company's brand. An effective Web site can also capture essential demographic information to help improve the product. ,",1
-"When designing a Web site, you will typically resize images to the dimensions you want to use on your Web page. Because monitors can be set at different resolutions, you will want your images to be sized relative to the rest of the Web page, not to a fixed height or width. ,",
-"Most GUI editors allow developers to modify HTML code manually, but may alter or ignore some or all manually entered HTML code. ,",
-"Hardware demands such as battery power and CPU usage are reduced when a plug-in is not used. This is especially important with regard to mobile devices, such as smartphones and tablets, that rely upon battery power. ,",
-"What tag is used in a select list to identify the text that will appear as list choices? ,",
-"Reset ,",
-"The <option> tag. ,",1
-"Type ,",
-"Script ,",
-"Which of the following is the best reason for learning HTML code? ,",
-"Content is available on many different browsers and platforms. ,",
-"You can enhance the functionality of your Web pages with scripting languages. ,",1
-"HTML5 APIs can extend the functionality of HTML by combining HTML5, CSS and JavaScript. ,",
-"The three formats are .mp4, .webm. and .ogg. ,",
-"What is attribute minimization ? ,",
-"It encrypts data transmissions so private information remains private. ,",
-"A situation in which some attributes lack attribute values. ,",1
-"Content is available on many different browsers and platforms. ,",
-"A value passed using a param element to an object to control the object's appearance and actions. ,",
-"Describe a Web application framework, which developers can use to develop dynamic Web pages rapidly. ,",
-"JavaScript. ,",
-"Neither mobile solution is better than the other. The choice depends on the needs of the organization that is developing a Web presence. Mobile Web sites work across multiple platforms and browsers. Mobile apps are designed for specific mobile operating systems and usually run faster. ,",
-"When designing a Web site, you will typically resize images to the dimensions you want to use on your Web page. Because monitors can be set at different resolutions, you will want your images to be sized relative to the rest of the Web page, not to a fixed height or width. ,",
-"A Web application framework is a software framework that provides common programming code for generic functions that developers can use to develop Web pages rapidly. The generic code can be selectively overridden by the developer for specific functionality. Two examples of a Web application framework are Django and Ruby On Rails. ,",1
-"The code <font color="red">Hi</font> would not be considered valid code under the _____ DTD ,",
-"string ,",
-"<select> ,",
-"attic ,",
-"strict ,",1
-"What is the best way to center a <video> element window within an HTML5 Web page? ,",
-"video class ,",1
-"index.html ,",
-"first ,",
-"<video> element ,",
-"Explain the difference between mobile Web sites and mobile apps. Which is better? ,",
-"The three formats are .mp4, .webm. and .ogg. ,",
-"When designing a Web site, you will typically resize images to the dimensions you want to use on your Web page. Because monitors can be set at different resolutions, you will want your images to be sized relative to the rest of the Web page, not to a fixed height or width. ,",
-"Neither mobile solution is better than the other. The choice depends on the needs of the organization that is developing a Web presence. Mobile Web sites work across multiple platforms and browsers. Mobile apps are designed for specific mobile operating systems and usually run faster. ,",1
-"Content is available on many different browsers and platforms. ,",
-"Which Web form tag is used to create text boxes, check boxes, radio buttons, and the Submit and Reset buttons, but not select lists? ,",
-"The <select> tag. ,",
-"The <input> tag. ,",1
-"The <link> tag. ,",
-"The <dl> tag. ,",
-"You are creating a Web form, and you want to incorporate a text field into which users can submit comments about your Web page. Which form field should you use? ,",
-"Web page editor ,",
-"Scrolling text area ,",1
-"Multiple-option scrolling list ,",
-"Text box ,",
-"Name two Web-ready image file formats that support transparency. ,",
-"GIF 89a and PNG. ,",1
-"Gif 87a and gif 89a. ,",
-"Gif 178a and Png. ,",
-"Gif 11a and Png. ,",
-"___________ DTD includes the deprecated elements and attributes of HTML. ,",
-"contrasting ,",
-"diagonal ,",
-"transitional ,",1
-"directional ,",
-"The target attribute is a prohibited attribute of the ________ element, in the strict DTD. ,",
-"a ,",1
-"text/JavaScript ,",
-"The <option> tag. ,",
-"form ,",
-"A polygon-shaped hot spot area is defined by how many coordinate pairs? ,",
-"Three to 100 ,",1
-"Three to 95 ,",
-"Four or more ,",
-"Three to 99 ,",
-"What is one concern regarding plug-ins and mobile devices? ,",
-"Most GUI editors allow developers to modify HTML code manually, but may alter or ignore some or all manually entered HTML code. ,",
-"You can create Web pages by simply clicking your mouse. ,",
-"Plug-ins require additional device resources, such as processor power, that shorten battery life. ,",1
-"Content is available on many different browsers and platforms. ,",
-"Which attribute is used by the <input> element to designate a text box, a radio button, a Submit or Reset button, a password field, or a check box? ,",
-"type ,",1
-"img ,",
-"name ,",
-"script ,",
-"What is an image map "hot spot"? ,",
-"It creates animation, interaction and dynamic updating on Web pages without contacting the server for each request. ,",
-"The three formats are .mp4, .webm. and .ogg. ,",
-"A value passed using a param element to an object to control the object's appearance and actions. ,",
-"An area of an image that acts as a hyperlink. ,",1
-"Option buttons are also known as __________ buttons ,",
-"submit ,",
-"radio ,",1
-"reset ,",
-"textarea ,",
-"What DTD does not allow any presentational features or deprecated HTML elements and attributes. ,",
-"string ,",
-"<select> ,",
-"attic ,",
-"strict ,",1
-"The ________ line of an XHTML file contains a statement called a prolog that indicates the document adheres to the syntax rules of XML. ,",
-"second ,",
-"first ,",1
-"last ,",
-"third ,",
-"Which tag displays one option from the selection list, along with a list arrow to view additional selection options? ,",
-"<list> ,",
-"<textarea> ,",
-"<select> ,",1
-"<input type="list"> ,",
-"What element is used to create a form? ,",
-"Legend element ,",
-"Option element ,",
-"Form element ,",1
-"Divider element ,",
-"How can HTML be extended to create mobile applications for smartphones and tablets? ,",
-"Use clean, valid markup, and use CSS to separate the presentation from the content; reduce margins and padding to provide more available space. ,",
-"HTML5 APIs can extend the functionality of HTML by combining HTML5, CSS and JavaScript. ,",1
-"Add multiple source elements that identify video files in all three video formats. ,",
-"EFT and payment gateways provide the ability to transfer funds. 3-D Secure enables secure credit card and debit card transactions using technologies such as SSL/TLS, which can secure a transmission from eavesdropping or tampering. ,",
-"Which type of button clears all form data and sets all form fields back to the default values? ,",
-"Undo button ,",
-"Reset button ,",1
-"Submit button ,",
-"Radio button ,",
-"List several HTML GUI editor applications currently available on the market. ,",
-"You can enhance the functionality of your Web pages with scripting languages. ,",
-"EFT and payment gateways provide the ability to transfer funds. 3-D Secure enables secure credit card and debit card transactions using technologies such as SSL/TLS, which can secure a transmission from eavesdropping or tampering. ,",
-"Adobe Dreamweaver, KompoZer, Mozilla SeaMonkey Composer, Microsoft Expression Web. ,",1
-"Specify the autoplay attribute with the autoplay value to play a video immediately upon loading. ,",
-"Which of the following is a benefit of mobile sites? ,",
-"The document object model (dom). ,",
-"Templates and wizards ,",
-"Easier navigation and targeted content ,",1
-"Form element ,",
-"What input type is used to create a button that will allow the user to send the form data to the server? ,",
-"reset ,",
-"submit ,",1
-"manifest ,",
-"form ,",
-"Which codec is required for MP4 videos to render properly in an HTML5 browser that supports it? ,",
-"H.164 ,",
-"H.528 ,",
-"H.132 ,",
-"H.264 ,",1
-"The ____________ DTD supports many of the presentational features of HTML. ,",
-"diagonal ,",
-"directional ,",
-"transitional ,",1
-"contrasting ,",
-"What are the three video formats supported by the HTML5 <video> element? ,",
-"The three formats are .mp4, .webm. and .ogg. ,",1
-"Content is available on many different browsers and platforms. ,",
-"Easier navigation and targeted content ,",
-"textarea ,",
-"To make a check box selected by default, you add __________. ,",
-"checked="checked" ,",1
-"checked="on" ,",
-"type= "hidden" ,",
-"checked="select" ,",
-"What term is used to describe the study of visitor behavior once that visitor has accessed your site? ,",
-"On-site analytics ,",1
-"Internal demographic analytics ,",
-"Target marketing analytics ,",
-"Hypertext links ,",
-"Which term is used to describe the rate of data transfer over a network connection, measured in bits per second? ,",
-"Textarea ,",
-"Usability ,",
-"Latency ,",
-"Bandwidth ,",1
-"In programming, what is the term for a space of memory used to store information for later use? ,",
-"A confound. ,",
-"Name/value ,",
-"An implicant. ,",
-"A variable. ,",1
-"_____ should be used for encoding unless you are using special international characters. ,",
-"Utf-32 ,",
-"UTF-8 ,",1
-"Utf-16 ,",
-"Utf-4 ,",
-"To specify what the correct content and structure for a document should be, the document developers create a collection of rules called the ____________. ,",
-"XSLT ,",
-"QOD ,",
-"JVM ,",
-"DTD ,",1
-"Which form field offers a round option field in a group of two or more mutually exclusive options? ,",
-"Check box ,",
-"Radio button ,",1
-"Text box ,",
-"Command button ,",
-"How does an application created in PHP differ from an application created in JavaScript? ,",
-"The <option> tag. ,",
-"strict ,",
-"Specify the autoplay attribute with the autoplay value to play a video immediately upon loading. ,",
-"The PHP application requires an interpreter on a server. ,",1
-"What is Internet marketing, and of what three components does it consist? ,",
-"The three formats are .mp4, .webm. and .ogg. ,",
-"It encrypts data transmissions so private information remains private. ,",
-"Internet marketing is the application of traditional marketing concepts to Web-based and Internet technologies. Internet marketing consists of search engine optimization (SEO), pay per click (PPC) and Web analytics. ,",1
-"Undefined Object Error ,",
-"What type of error usually indicates that your browser does not support a specific DOM? ,",
-"Undefined Object Error ,",1
-"Write Error ,",
-"Dom Error ,",
-"Input Box ,",
-"Name the two coordinates used to define a point on any image shape. ,",
-"Plug-ins require additional device resources, such as processor power, that shorten battery life. ,",
-"A horizontal (x) coordinate and a vertical (y) coordinate. ,",1
-"HTML5 APIs can extend the functionality of HTML by combining HTML5, CSS and JavaScript. ,",
-"mp3, .wav, .ogg ,",
-"A reference to an external JavaScript file is normally placed in the_______ section of an HTML document, according to good design principles. ,",
-"body ,",
-"head ,",1
-"html ,",
-"img ,",
-"What technologies discussed in this lesson help e-commerce companies exchange funds? ,",
-"What You See Is What You Get (WYSIWYG) editor. ,",
-"EFT and payment gateways provide the ability to transfer funds. 3-D Secure enables secure credit card and debit card transactions using technologies such as SSL/TLS, which can secure a transmission from eavesdropping or tampering. ,",1
-"Use clean, valid markup, and use CSS to separate the presentation from the content; reduce margins and padding to provide more available space. ,",
-"Cloud computing ,",
-"What type of application offers an interface similar to an HTML GUI editor? ,",
-"Word processor. ,",1
-"Video class ,",
-"A driver ,",
-"Processing power. ,",
-"Each JavaScript command line ends with a ________________ to separate it from the next command line in the program. ,",
-"semicolon ,",1
-"text-align ,",
-"underscore ,",
-"field ,",
-"JavaScript supports comment tags, using a set of double ________ at the beginning of a line that instructs the browser to ignore the line and not interpret it as a JavaScript command. ,",
-"dashes ,",
-"slashes ,",1
-"commas ,",
-"periods ,",
-"Which site management editor feature displays link hierarchies of the target Web pages? ,",
-"Import html pages ,",
-"Hypertext links ,",1
-"Index.html ,",
-"Html tags ,",
-"How can Web developers configure a video to play immediately when it loads? ,",
-"It encrypts data transmissions so private information remains private. ,",
-"Content is available on many different browsers and platforms. ,",
-"A horizontal (x) coordinate and a vertical (y) coordinate. ,",
-"Specify the autoplay attribute with the autoplay value to play a video immediately upon loading. ,",1
-"The action of an image progressively displaying on a Web page as it downloads is called: ,",
-"frame rate. ,",
-"interlacing. ,",1
-"aspect ratio. ,",
-"textarea ,",
-"Which input type creates a field that is not viewable on the form? ,",
-"undefined object error ,",
-"type= "hidden" ,",1
-"reset button ,",
-"value="value" ,",
-"Which of the following is a drawback of client-side scripting? ,",
-"The web server ,",
-"The code relies upon the client's interpreter. ,",1
-"Easier navigation and targeted content ,",
-"Web page editor ,",
-"What type of element is used for extended entries that can include several lines of text? ,",
-"textarea ,",1
-"radio ,",
-"javascript. ,",
-"password ,",
-"Write the HTML tag to create a scrolling text area box that will report input results by the name of "Feedback." The box should be 30 characters wide and five rows tall. ,",
-"Use clean, valid markup, and use CSS to separate the presentation from the content; reduce margins and padding to provide more available space. ,",
-"<textarea name="Feedback" cols=30 rows=5> Your comments here </textarea> ,",1
-"It creates animation, interaction and dynamic updating on Web pages without contacting the server for each request. ,",
-"A horizontal (x) coordinate and a vertical (y) coordinate. ,",
-"What is the default value of the wrap attribute in a text area box? ,",
-"soft ,",1
-"first ,",
-"hard ,",
-"tone ,",
-"To group option buttons so that selecting one deselects all of the others, you must make the _________ attribute the same. ,",
-"name ,",1
-"type ,",
-"ftp ,",
-"value ,",
-"Prior to HTML5, how were video and audio files embedded and played within Web sites? ,",
-"Netbooks ,",
-"Add-ons ,",
-"Ereaders ,",
-"Plug-ins ,",1
-"What does Dynamic HTML do?,",
-"HTML5 APIs can extend the functionality of HTML by combining HTML5, CSS and JavaScript. ,",
-"It encrypts data transmissions so private information remains private. ,",
-"It creates animation, interaction and dynamic updating on Web pages without contacting the server for each request. ,",1
-"Plug-ins require additional device resources, such as processor power, that shorten battery life. ,",
-"What is another common term for a graphical user interface (GUI) HTML editor? ,",
-"Page editors and site management editors. ,",
-"What You See Is What You Get (WYSIWYG) editor. ,",1
-"An area of an image that acts as a hyperlink. ,",
-"Undefined Object Error ,",
-"How can the removal of browser plug-ins affect mobile devices? ,",
-"Internet marketing is the application of traditional marketing concepts to Web-based and Internet technologies. Internet marketing consists of search engine optimization (SEO), pay per click (PPC) and Web analytics. ,",
-"EFT and payment gateways provide the ability to transfer funds. 3-D Secure enables secure credit card and debit card transactions using technologies such as SSL/TLS, which can secure a transmission from eavesdropping or tampering. ,",
-"how a Web page's layout, content and design elements complement an organization's business concerns and marketing goals. ,",
-"Hardware demands such as battery power and CPU usage are reduced when a plug-in is not used. This is especially important with regard to mobile devices, such as smartphones and tablets, that rely upon battery power. ,",1
-"Which of the following file names could represent the default document for a cat fancier's Web site in most Web servers? ,",
-"input box ,",
-"style.css ,",
-"index.html ,",1
-"home.html ,",
-"What is the easiest way for Web developers to support multiple video formats for different HTML5-compliant browsers? ,",
-"Add multiple source elements that identify video files in all three video formats. ,",1
-"Most GUI editors allow developers to modify HTML code manually, but may alter or ignore some or all manually entered HTML code. ,",
-"video class ,",
-"It encrypts data transmissions so private information remains private. ,",
-"What is the purpose of SSL/TLS in an e-commerce transaction? ,",
-"The Document Object Model (DOM). ,",
-"Internet marketing is the application of traditional marketing concepts to Web-based and Internet technologies. Internet marketing consists of search engine optimization (SEO), pay per click (PPC) and Web analytics. ,",
-"It encrypts data transmissions so private information remains private. ,",1
-"You can enhance the functionality of your Web pages with scripting languages. ,",
-"What symbol can be used to combine text strings? ,",
-"+ ,",1
-"It encrypts data transmissions so private information remains private. ,",
-"textarea ,",
-"Form element ,",
-"You need to create a Web form that asks visitors to enter a password before they can access the next page. What input type would you use? ,",
-"The "password" value of the <input> tag type attribute, for example: <input type="password" name="Password" size="8"/> ,",1
-"<textarea name="Feedback" cols=30 rows=5> Your comments here </textarea> ,",
-"size="value" ,",
-"A standard HTTP 404 - File Not Found error message. A Web page with a customized File Not Found message, created by the Web server administrator or Web developer. An error message generated by the Web browser. ,",
-"While creating a Web site, you include code in your HTML file that specifies several "hot spot" areas on an image, each of which links to another page. What have you just created? ,",
-"A rollover ,",
-"An image map ,",1
-"A site map ,",
-"A hot spot ,",
-"A transparent image:,",
-"It encrypts data transmissions so private information remains private. ,",
-"The three formats are .mp4, .webm. and .ogg. ,",
-"enables any part of an image to blend with the Web page background. ,",1
-"A situation in which some attributes lack attribute values. ,",
-"The alt attribute is a required attribute of the _______ element. ,",
-"img ,",1
-"html ,",
-"png. ,",
-"head ,",
-"A non-interlaced image will begin to render after the browser has read what percentage of the image file? ,",
-"Fifty percent. ,",1
-"Slashes ,",
-"Less than 10 percent. ,",
-"Field ,",
-"Which of the following is a library that is used by many applications to save coding time? ,",
-"Include ,",1
-"Function ,",
-"Head ,",
-"Array ,",
-"Information entered into a field is called the ___________. ,",
-"field value ,",1
-"input box ,",
-"summary variable ,",
-"shift key ,",
-"To define a default field value, add the attribute ________ ,",
-"value="value" ,",1
-"text/javascript ,",
-"type= "hidden" ,",
-"field value ,",
-"Is JavaScript case sensitive? ,",
-"A situation in which some attributes lack attribute values. ,",
-"form ,",
-"enables any part of an image to blend with the Web page background. ,",
-"Yes ,",1
-"What is the main benefit of creating mobile Web sites instead of apps? ,",
-"You can create Web pages by simply clicking your mouse. ,",
-"What You See Is What You Get (WYSIWYG) editor. ,",
-"Content is available on many different browsers and platforms. ,",1
-"You can enhance the functionality of your Web pages with scripting languages. ,",
-"Which button, when clicked, causes a form's action statement to process? ,",
-"Reset button ,",
-"Submit button ,",1
-"Radio button ,",
-"File upload ,",
-"Name two design techniques you should consider when designing Web pages for mobile devices. ,",
-"Two seconds. (14,000 bytes X 8 = 112,000 bits; 56 Kbps = 56,000 bits per second; 112,000 bits / 56,000 bits per second = 2 seconds) ,",
-"Internet marketing is the application of traditional marketing concepts to Web-based and Internet technologies. Internet marketing consists of search engine optimization (SEO), pay per click (PPC) and Web analytics. ,",
-"EFT and payment gateways provide the ability to transfer funds. 3-D Secure enables secure credit card and debit card transactions using technologies such as SSL/TLS, which can secure a transmission from eavesdropping or tampering. ,",
-"Use clean, valid markup, and use CSS to separate the presentation from the content; reduce margins and padding to provide more available space. ,",1
-"To set the number of options displayed at one time in the selection list, add the attribute ________ ,",
-"<label for="city"> ,",
-"size="value" ,",1
-"value="value" ,",
-"type= "hidden" ,",
-"Which HTML5 Application Programming Interface (API) allows a Web program to run locally on a client system? ,",
-"The Web server ,",
-"Offline Web application ,",1
-"Mailing List server ,",
-"Application cache ,",
-"What is a parameter?,",
-"A situation in which some attributes lack attribute values. ,",
-"A value passed using a param element to an object to control the object's appearance and actions. ,",1
-"<textarea name="Feedback" cols=30 rows=5> Your comments here </textarea> ,",
-"how a Web page's layout, content and design elements complement an organization's business concerns and marketing goals. ,",
-"What input type is used to create a button that will clear the form button fields? ,",
-"reset ,",1
-"relay ,",
-"rewrite ,",
-"list ,",
-"Which form field allows users to enter text such as a first or last name? ,",
-"Text area. ,",
-"Check box. ,",
-"Input box ,",
-"Text box. ,",1
-"Name a disadvantage of creating Web pages using an HTML text editor that is resolved by using a GUI editor. ,",
-"The Document Object Model (DOM). ,",
-"Typing code in a text editor can be extremely time-consuming and complicated. A GUI editor writes code for you as you point, click and make selections. ,",1
-"semicolon ,",
-"Hypertext links ,",
-"Each control element in which the user can enter information is called a(n) ____. ,",
-"field ,",1
-"garden ,",
-"header ,",
-"default ,",
-"What interpreted, cross-platform, object-based scripting language can add interactivity to a Web page? ,",
-"Strict ,",
-"Php. ,",
-"Textarea ,",
-"JavaScript. ,",1
-"Which of the following is responsible for executing Perl code? ,",
-"The Client's browser ,",
-"The Web server ,",1
-"Both client and server ,",
-"The Web browser ,",
-"Which syntax is used for defining a circle-shaped hot spot area in an image map? ,",
-"coords="x1,y1,x2,y2" ,",
-"coords="x1,y1,x2,y2,x3,y3,x4,y4" ,",
-"size="value" ,",
-"coords="x1,y1,radius" ,",1
-"Label elements are normally _________ elements. ,",
-"inline ,",1
-"head ,",
-"block ,",
-"internal ,",
-"Which attributes define the dimensions of a text area? ,",
-"blocks and chars ,",
-"headers and footers ,",
-"rows and cols ,",1
-"x-coords and y-coords ,",
-"You want a program that automatically writes HTML code for you, but you do not need automated organization features or workflow integration with other applications. You prefer a limited application that will cost less. Which type of program should you choose? ,",
-"Web page editor ,",1
-"Html editor ,",
-"Site management editors ,",
-"Script ,",
-"The concept of Web page branding standards refers to: ,",
-"A value passed using a param element to an object to control the object's appearance and actions. ,",
-"Use clean, valid markup, and use CSS to separate the presentation from the content; reduce margins and padding to provide more available space. ,",
-"Specify the autoplay attribute with the autoplay value to play a video immediately upon loading. ,",
-"how a Web page's layout, content and design elements complement an organization's business concerns and marketing goals. ,",1
-"Which of the following relies upon digital certificates embedded within a Web browser in order to authenticate hosts, encrypt transmissions and ensure data confidentiality? ,",
-"Index.html ,",
-"Tcp/ip ,",
-"SSL/TLS ,",1
-"Vpn ,",
-"What are the three audio formats supported by the HTML5 <audio> element? ,",
-"mp3, .aac, .wav ,",
-"mp3, .wma, .ogg ,",
-"mp3, .wav, .aiff ,",
-"mp3, .wav, .ogg ,",1
-"When a form is submitted, the server receives the data in ____ pairs. ,",
-"field value ,",
-"variable/value ,",
-"true/false ,",
-"name/value ,",1
-"Which protocol is most often used to publish a Web site to a remote Web host? ,",
-"NAME ,",
-"HTTP ,",
-"SSL/TLS ,",
-"FTP ,",1
-"Which <audio> attribute specifies that an audio file will continue to play over and over? ,",
-"type ,",
-"loop ,",1
-"form ,",
-"knot ,",
-"Image layers are supported in which file format? ,",
-"Gif. ,",
-"Jpeg. ,",
-"Svg. ,",
-"PNG. ,",1
-"What two types of HTML GUI editors are available? ,",
-"Interlacing. ,",
-"Templates and wizards ,",
-"Front-end issues. ,",
-"Page editors and site management editors. ,",1
-"The action attribute is a required attribute of the _______ element. ,",
-"name ,",
-"form ,",1
-"action ,",
-"submit ,",
-"What programming language is platform-independent and object-oriented, and can be used to create applications called servlets? ,",
-"Cgi Scripts. ,",
-"Java. ,",1
-"Include ,",
-"Object-oriented Templates. ,",
-"Which type of editing application allows Web developers to automate tasks and integrate other applications into workflow? ,",
-"Html5 editors ,",
-"Front-end issues. ,",
-"Wysiwyg editors ,",
-"Site management editors ,",1
-"What is used to mark the beginning and end of the commands section in a function? ,",
-"square brackets [] ,",
-"curly braces {} ,",1
-"input box ,",
-"a semicolon ( ; ) ,",
-"Calculate the time required, in seconds, to download a 14,000-byte Web page using a 56-Kbps modem. ,",
-"Use clean, valid markup, and use CSS to separate the presentation from the content; reduce margins and padding to provide more available space. ,",
-"Most GUI editors allow developers to modify HTML code manually, but may alter or ignore some or all manually entered HTML code. ,",
-"Two seconds. (14,000 bytes X 8 = 112,000 bits; 56 Kbps = 56,000 bits per second; 112,000 bits / 56,000 bits per second = 2 seconds) ,",1
-"The three formats are .mp4, .webm. and .ogg. ,",
-"Which of the following features of a GUI editor offers the quickest way to create a new Web page? ,",
-"Import html pages ,",
-"Web page editor ,",
-"Text style options ,",
-"Templates and wizards ,",1
-"Which attribute must you include in the <form> tag to specify the location and name of the script that will process form data? ,",
-"bracketing ,",
-"action ,",1
-"f-stop ,",
-"manifest ,",
-"The strict DTD requires the use of the ______ attribute in place of the name attribute. ,",
-"head ,",
-"soft ,",
-"video class ,",
-"id ,",1
-"______________ can be used to look for e-mail addresses by scanning Web pages. ,",
-"script ,",
-"submit ,",
-"email harvesters ,",1
-"field ,",
-"In HTML, do form tags need to be closed? Why or why not? ,",
-"Easier navigation and targeted content ,",
-"Yes, the <form> tag is a container tag that must be closed with a closing </form> tag. The <form> </form> tags must encompass all other form field tags in the Web form. You must close all tags used in forms, just like any other HTML tag. ,",1
-"When designing a Web site, you will typically resize images to the dimensions you want to use on your Web page. Because monitors can be set at different resolutions, you will want your images to be sized relative to the rest of the Web page, not to a fixed height or width. ,",
-"field value ,",
-"What is the term for the API used to standardize the way that JavaScript applications can refer to HTML documents? ,",
-"The <input> tag. ,",
-"The Document Object Model (DOM). ,",1
-"The web server ,",
-"Cascading style sheets (css). ,",
-"When naming a variable, the first character must be either a letter or an _________. ,",
-"submit ,",
-"underline ,",
-"semicolon ,",
-"underscore ,",1
-"If you do not include the type attribute in an <input> tag, the Web browser assumes that you want to create an ,",
-"input box ,",1
-"check box group ,",
-"text area ,",
-"dialog box ,",
-"You use the _________ tag to distinguish JavaScript code from the text that you want displayed on a Web page. ,",
-"script ,",1
-"head ,",
-"serif ,",
-"inline ,",
-"Which file is required for offline Web applications to allow users to continue working without a network connection? ,",
-"Panacea ,",
-"Strict ,",
-"Facile ,",
-"Manifest ,",1
-"Why should you specify the size of your Web images in pixels? ,",
-"You can enhance the functionality of your Web pages with scripting languages. ,",
-"Yes, the <form> tag is a container tag that must be closed with a closing </form> tag. The <form> </form> tags must encompass all other form field tags in the Web form. You must close all tags used in forms, just like any other HTML tag. ,",
-"When designing a Web site, you will typically resize images to the dimensions you want to use on your Web page. Because monitors can be set at different resolutions, you will want your images to be sized relative to the rest of the Web page, not to a fixed height or width. ,",1
-"It encrypts data transmissions so private information remains private. ,",
+"يعتبر المعدل الدراسي مثال على البيانات ,",S
+",",
+"الكمية المتصلة,",1
+"الكمية المنفصلة,",
+"الوصفية,",
+"جميع ما يلي بيانات وصفية ما عدا ,",S
+",",
+"الحالة الأقتصادية,",
+"درجة الحرارة,",1
+"الجنسية,",
+"مجموعة جزئية من مفردات المجتمع محل الدراسة يتم اختيارها بحيث تكون ممثلة للمجتمع تمثيل صحيح,",S
+",",
+"البيانات,",
+"المتغير,",
+"العينة,",1
+"مجموعة القيم التي يتم جمعها من مفردات المجتمع أو العينة لخاصية معينة هي,",S
+",",
+"البيانات,",1
+"المجتمع,",
+"المتغير,",
+"مجموعة الطرق و الأساليب التي تستخدم في تعميم نتائج العينة على خصائص المجتمع الذي سحبت منه و قياس العلاقات بين الخصائص المختلفة للمجتمع والتنبؤ بالقيم المستقبلية لهذه الخصائص ,",S
+",",
+"الإحصاء الاستدلالي,",1
+"الإحصاء الوصفي,",
+"البيانات,",
+"هي البيانات التي يمكن حصرها في عدة أوجة وصفية ولا يمكن إجرا ء عمليات رياضية حسابية عليها  كالجمع و الطرح,",S
+",",
+"البيانات الكمية المتصلة,",
+"البيانات الكمية المنفصلة,",
+"البيانات الوصفية,",1
+"البيانات الوصفية هي البيانات التي يتم الحصول عليها في شكل أعداد و يمكن ترتيبها ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"تعتبر الأرقام الجامعية للطلاب بيانات وصفية ,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"العينة هي المجموعة الكلية لمفردات الدراسة سوا كانت أفراد أو أشياء ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+" كلما أرتفع مستوى قياس الخاصية كانت القدرة على إجرا العمليات الترتيبية و الحسابية عليها أكبر,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+":ماذا يحدث إذا كان مستوى النسبة مساوي للصفر  ,",S
+",",
+"انعدام الصفة,",1
+"مدلول الصفة ,",
+"لاشيء مما سبق,",
+"يستخدم المستوى الاسمي والترتيبي لقياس,",S
+",",
+"الصفة,",
+"البيانات النوعية ,",1
+"البيانات الكمية ,",
+"يستخدم مستوى الفترة ومستوى النسبة لقياس,",S
+",",
+"البيانات النوعية ,",
+"مدلول الصفة ,",
+"البيانات الكمية ,",1
+"أنواع البدء في التحليل الاحصائي,",S
+"اسمي,",
+"كمي,",
+"ترتيبي,",
+"كل ما سبق,",1
+"الى كم نوع خطأ ممكن ان تتعرض له البيانات عند جمعها,",S
+",",
+"ثلاثة أنواع ,",
+"نوعان,",1
+"نوع واحد,",
+"(تعريف)هو الخطأ الذي يحدث عند جمع البيانات,",S
+",",
+"خطأ التحييز,",1
+"خطأ المعاينة العشوائية,",
+"لاشيء مما سبق,",
+"(تعريف)هو الخطأ الذي يحدث عند اجراء الدراسة الإحصائية,",S
+",",
+"خطأ التحييز,",
+"خطأ المعاينة العشوائية,",1
+"لاشيء مما سبق,",
+"ماهي طرق تنظيم وعرض البيانات,",S
+",",
+"التوزيعات التكرارية,",
+"التمثيل البياني ,",
+"كل ما سبق,",1
+"ماذا نستفيد من تلخيص البيانات,",S
+",",
+"تنظيمها ,",
+"معالجتها,",1
+"عرضها,",
+"عند استخدام أسلوب المعاينة فأننا في تعميم النتائج على باقي المجتمع"" مثال على"",",S
+",",
+"الإحصاء الوصفي ,",
+"الإحصاء الحيوي ,",1
+"الإحصاء  ,",
+"جميع الخيارات من أنواع أساليب المسح بالعينة العشوائي ما عدا ,",S
+",",
+"البسيطة,",
+"المنتظمة,",
+"الزمنية,",1
+"نحصل على البيانات من كل السجلات والتقارير وقواغد البيانات من أسلوب,",S
+",",
+"المسح,",1
+"المسح الشامل,",
+"المسح بالعينة العشوائية,",
+"يتم جمع البيانات من كل مفردات المجتمع محل الدارسة,",S
+",",
+"المسح الشامل ,",1
+"المسح بالعينة العشوائية,",
+"المسح,",
+"يتم اختيار عينة عشوائية بسيطة من الشيكات من كل فرع حسب حجم  ,",S
+",",
+"الوزن,",
+"الشبكات,",
+"العينة,",1
+"عند تصميم الاستبيان لايجب مراعاة الشروط,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"تعطي كل مفردة من مفردات المجتمع نفس الفرصة في الاختيار يعتبر من العينة العشوائية الطبقية  ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"لاختيار عينة عشوائية طبقية حجمها 10% من بين الشبكات المقدمة يتم تحديد حجم العينة الطبقية البسيطة الكلي ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"يتم تجميع البيانات من بعض مفردات المجتمع محل الدراسة بأسلوب المسح بالعينة العشوائية,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"تجنب الأسئلة التي  تعتمد على على ذاكرة الفرد لفترة زمنية قصيرة من الشروط عند تصميم الاستبيان  ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"الاستبيان عبارة عن أسئلة موجهه لفئة معينة مختارة من الناس,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"التمثيل البياني للبيانات الكمية المنفصلة,",S
+"شكل الاعمدة,",1
+"مدرج تكراري,",
+"مضلع تكراري,",
+"مضلع تكراري,",
+"يتم تمثيل البياني للبيانات الكميه المتصله ب,",S
+"المدرج التكراري,",
+"المضلع التكراري,",
+"المنحنى التكراري,",
+"كل ما سبق,",1
+"يعتبر شكل القطاعات الدائريه من افضل الاشكال البيانيه التي تستخدم في تمثيل البيانات النوعيه الاسميه,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+" من افضل الاشكال البيانيه التي تستخدم التي تستخدم في تمثيل البيانات لكمية المتصله,",S
+"المدرج ,",
+"المضلع ,",
+"المنحنى التكراري,",
+"كل ما سبق,",1
+"التغيرات التي تتكرر بانتظام خلال فترة زمنية أقل من السنة، عادة في الموسم,",S
+",",
+"الاتجاه العام,",
+"التغيرات الموسمية,",1
+"التغيرات الدورية,",
+"لايجاد النسبه يستخدم القانون التالي (الحد الادنى للفئه+الحد الأعلى للفئه)÷ 2 ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"التغيرات التي تحدث نتيجة حوادث فجائية غير متوقعة مثل الفيضانات والاعاصير والحروب,",S
+",",
+"التغيرات الموسمية,",
+"التغيرات العرضيه,",1
+"كل ما سبق,",
+"القطاعات الدائريه تعتبر من افضل الاشكال البيانية التي تستخدم في تمثيل البيانات النوعية الاسمية,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"شركة بها 2000 موظف جنسياتهم على النحو التالي يمني، فلسطيني، اردني عدد القطاعات في شكل القطاع الدائري,",S
+",",
+"5,",
+"1,",
+"3,",1
+"البيانات الخام هي البيانات التي تم تلخيصها وتنظيمها في توزيعات تكرارية,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"عند حصولنا على بيانات نطلق على هذه البيانات ب,",S
+",",
+"Raw Data,",
+"بيانات خام ,",
+"كل ما سبق,",1
+"عند تلخيص البيانات وتنظيمها يطلق على هذه البيانات ب,",S
+",",
+"توزيعات تكرارية,",
+"بينات مبوبة,",1
+"بيانات خام ,",
+"عدد الفئات،.... التكرار،.......حجم الفئة .... ، يرمز لهم بالترتيب,",S
+",",
+" c,f,n ,",1
+" n,c,f ,",
+"f,c,n ,",
+"حجم التكرارات يساوي حجم العينه يساوي,",S
+",",
+"£=nf,",
+"f=n£,",
+"n=f£,",1
+"عندما يكون لدينا فئه من20 إلى 30 فان القيمه,",S
+",",
+"20 حد ادنى لهذه الفئه,",1
+"30 حد ادنى لهذه الفئه,",
+"20 حد اعلى لهذه الفئه,",
+"طول الفئه هو الفرق بين الحد األدنى والحد الأعلى لنفس الفئه,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"يمكن حساب عدد الفئات محسوبة باستخدام الحزم اإلحصائية,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"التوزيعات التكرارية هي عباره عن جداول لبعض الأوجه وليس لجميع الأوجه,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"لا تختلف التوزيعات التكرارية حسب طبيعة البيانات,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"...مركز الفئه يسمى ... ويساوي,",S
+",",
+"منتصف الفئه ، (الحد الأدنى + الحد الأعلى) ÷٢,",1
+"منتصف الفئه, الحد الأدنى ÷ الحد الأعلى,",
+"منتصف الفئه ، ٢×(الحد الأدنى + الحد الأعلى) ,",
+"تغيرات تحدث عادة كل خمس او ثلاث سنوات ,",S
+",",
+"التغيرات الموسمية,",
+"التغيرات الدورية,",1
+"التغيرات العرضية,",
+"يمكن وصف البيانات النوعية بإحدى التمثيلات البيانية الاتية,",S
+",",
+"المدرج التكراري,",
+"السلاسل الزمنية,",
+"القطاعات الدائرية,",1
+"يعتبر شكل الأعمدة من افضل الاشكال البيانية التي تستخدم في تمثيل  ,",S
+",",
+"البيانات النوعية فقط,",
+"كل من بيانات الكمية  المنفصلة والبيانات النوعية  ,",1
+"بيانات السلاسل الزمنية,",
+"يتم التمثيل التوزيع المجتمع الصاعد والنازل عن طريق,",S
+",",
+"Circles,",
+"Pointers,",
+"Frequency Ogives,",1
+"دائما يكون للسلاسل الزمنية اتجاه عام,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"شكل الاعمدة يستخدم لتمثيل البيانات النوعية فقط,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"عند التمثيل في المدرج او المضلع او المنحنى التكراري,",S
+",",
+"نرسم محور واحد فقط يمثل التكرارات,",
+"نرسم محور واحد فقط يمثل الفئات,",
+"نرسم محور لتمثيل الفئات ومحور لتمثيل التكرارات,",1
+"من أبرز الاشكال وتستخدم في كثير من المجالات الاقتصادية -خاصة- تبين لنا تطور الظواهر مع مرور الزمن,",S
+",",
+"شكل القطاعات الدائرية ,",
+"شكل الاعمدة,",
+"شكل السلاسل الزمنية,",1
+"من الاتي من يعتبر من مكونات السلسة الزمنية,",S
+",",
+"المدرج التكراري,",
+"الاتجاه العام,",1
+"لا شيء مما سبق,",
+"من مما يأتي لا يمثل شكل من اشكال تمثيل البيانات,",S
+",",
+"Bar Chart,",
+"Time Series Plot,",
+"Just a Normal  Rectangular,",1
+"  {3,6,4,2,5} احسب المتوسط الحسابي للقيم التالية,",S
+",",
+"3,",
+"4,",1
+"5,",
+"يمكن حساب البيانات النوعية بالمتوسط الحسابي فقط إذا تم تكميمها,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"   أوجد الوسيط  {7,2,5,8,6,3,4,1}           ,",S
+",",
+"3.5,",
+"4.5,",1
+"5.5,",
+"................. هو القيمة الأكثر تكراراً ,",S
+",",
+"الوسيط,",
+"المتوسط,",
+"المنوال,",1
+"{4,6,4,5,6,1,2} نوع المنوال,",S
+",",
+"أحادي,",
+"ثنائي,",1
+"عديم,",
+"احسب الوسيط {1,7,8,5,2,4,6},",S
+",",
+"4,",
+"5,",1
+"6,",
+"هو مجموع حواصل ضرب قيم مفردات العينة في أوزان مخصصة مقسوما على مجموع هذه الأوزان,",S
+",",
+"المتوسط الحسابي,",
+"الوسيط,",
+"المتوسط المرجح,",1
+"البيانات الكمية المتصلة مثل ,",S
+",",
+"عدد افراد الاسرة ,",
+"عدد حوادث السيارات ,",
+"درجات الحرارة,",1
+"يقاس المستوى التعليمي بإستخدام المقياس ,",S
+",",
+"النسبي,",
+"الفترة,",
+"الترتيبي,",1
+"أوجد المدى للبيانات التالية :\n2  ,  4   ,  6  , 1 ,3  ,",S
+",",
+"4,",
+"5,",1
+"2,",
+"اذا كانت الأجور اليومية بالريال لعينة من عشرة عمال في احدى الشركات على النحو التالي \n75  ,  65,  67,  89,  80,  100,  60,  78,  90\n احسب المدى للأجور اليومية ,",S
+",",
+"40,",1
+"60,",
+"100,",
+"المدى هو الفرق بين مركز الفئة الاخيــرة ومركـــز الفئة الأولى ,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"احسب الانحراف المعياري للأجور اليومية بالدولار للعينة العشوائية التالية المكونة من ثلاثة عمال بإحدى القطاعات \n 90,      70,     50,",S
+",",
+"40,",
+"20,",1
+"60,",
+" اذا كان عدد المترددين على العيادات النفسية بإحدى المستشفيات خلال ستة أيام هو \n (4 ,   6 ,   3,    8,   10,     12)  \n احسب الانحراف المعياري ,",S
+",",
+"308.17,",
+"369,",
+"3.49,",1
+"التباين لبيانات المجتمع هو عبارى عن متوسط الجذر التربيعي لقيم عن وسطها الحسابي ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"اوجد الانحراف المعياري لعدد مرات التداول اليومي خلال أيام العمل الرسمية لاحد الحسابات البنكية \n (8,   0,    3,   7 ,    4) ,",S
+",",
+"41.2,",
+"3.21,",1
+"32.1,",
+"اوجد التباين لعدد مرات تداول يومي  خلال أيام العمل الرسمية من احد الحسابات \n (4,    7     ,  8,    0   , 3) ,",S
+",",
+"10.3,",1
+"1.03,",
+"41.2,",
+"يعتبر الوسيط أدق مقاييس النزعة المركزية وأكثرها ثباتاً,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"يتأثر الوسط الحسابي بالقيم المتطرفة ,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"لا يمكن إيجاده الوسيط بالرسم ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"يصعب حساب  الوسيط أدق في  الجداول المتكررة المفتوحة,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"من عيوب المتوسط الحسابي أنه قد لا يساوي عدداً صحيحاً أو أيً من القيم الداخلة فيه,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"المجموع الجبري لانحرافات القيم عن وسطها الحسابي يساوي ,",S
+",",
+"واحد,",
+"صفر,",1
+"مجموع القيم نفسه,",
+"عند إضافة أو طرح مقدار ثابت لجميع القيم فإن الوسط الحسابي  ,",S
+",",
+"يزيد و ينقص على الترتيب بنفس المقدار الثابت,",
+"يزيد أو ينقص على الترتيب بنفس المقدار الثابت,",1
+"يزيد أو ينقص على الترتيب بنفس بمقدار متغير,",
+"المقياس الوحيد في النزعة المركزية الذي يمكن إيجاده للبيانات الأسمية هو,",S
+",",
+"الوسيط,",
+"الوسط الحسابي,",
+"المنوال,",1
+"........ يصعب استخدمه في الإحصاء الاستدلالي وذلك لصعوبة معالجته بالطرق الجبرية  ,",S
+",",
+"الوسيط,",1
+"الوسط الحسابي,",
+"المنوال,",
+" من مزايا الوسيط كمقياس للنزعة المركزية,",S
+",",
+"يمثل القيمة الأكثر تكراراً في المجموعة ,",
+"يشمل جميع قيم البيانات,",
+"يعتبر مناسباً للتفسير في حالة وجود قيم متطرفة,",1
+"ماهي الصيغة التي تستخدم عند حساب بيانات العينة,",S
+",",
+"Cy.(x)=s/-x 10 %,",
+"Cy.(x)=s/-x 50 %,",
+"Cy.(x)=s/-x 100%,",1
+".......معاملا الالتواء لبيرسون ,",S
+",",
+"يتاثران بوحده القياس,",1
+"لا يتاثران بوحده القياس,",
+"لا شيء مما سبق,",
+"ما هي مقاييس التشتت المطلق ,",S
+",",
+"المدى ,",
+"الانحراف المعياري,",
+"كل ما سبق,",1
+"هو معامل نسبي يستخدم للمقارنة بين تشتت ظاهرتين او اكثر مختلفتين او متشابهتين في وحده القياس ويرمز  cy.(x) لها بالرمز     ,",S
+",",
+"معامل الاختلاف ,",1
+"الانحراف المعياري ,",
+"لا شيء مما سبق,",
+"الظاهرة التي معامل اختلافها اكثر تكون...... من الأخرى ,",S
+",",
+"مساوية للتشتت ,",
+"اكثر تشتتاً,",1
+"اقل تشتتاً,",
+"اذا أراد شخص الاستثمار في شركة وكان الانحراف المعياري 5 والوسط الحسابي  12 فعليه الاعتماد على ,",S
+",",
+"الوسط الحسابي ,",1
+"الانحراف المعياري,",
+"كل ما سبق,",
+"درجات طلاب المدرسة الخاصه اكثر تجانساً من درجات طلاب المدرسة الحكومية ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"هو درجة بعد المنحنى التكراري عن التماثل,",S
+",",
+"معامل الالتواء,",1
+"معامل الانحراف ,",
+"التماثل,",
+"من المهم في حساب معاملي الالتواء لبيرسون توضيح اذا كانت البيانات مبوبة او غير مبوبة,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"في حال التوزيع التكراري المفتوحة ........ إيجاد معاملي الالتواء لبيرسون لذا....... استخدام معامل الالتواء لباولي ,",S
+",",
+"لا يمكن – يمكن ,",1
+"يمكن – لا يمكن,",
+"يمكن –  يمكن,",
+"عندما تكون قيمة معامل الارتباط لبيرسون مساوية للصفر فذلك يدل على عدم وجود علاقة بين المتغيرين  ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"لا يصح معامل بيرسون لقياس متغيرين كليهما مقياس ترتيبي او اسمي ,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"الارتباط  لا يدل على السببية ,  ليس شرط ان يتغير احد المتغيرين بتغير الاخر ,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"يفضل استخدامه لتحديد درجة ارتباط بيانات كمية عددها اقل من  30,",S
+",",
+"بيرسون,",
+"سبيرمان,",1
+"بوينت بايسسريال ,",
+"اذا كان قيمة معامل الارتباط من     0.50 الى 0.69 فانه ارتباط طردي ,",S
+",",
+"قوي,",
+"متوسط,",1
+"ضعيف,",
+"من اكثر معاملات الارتباط استخداما و خاصة العلوم الإنسانية و الاجتماعية  ,",S
+",",
+"بيرسون,",1
+"سبيرمان,",
+"بوينت بايسسريال ,",
+"معامل الإقتران لا يستخدم للعلاقة بين متغيرين اسميين،كَ النوع(ذكر/أنثى)      ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"معامل الإقتران كمعاملي 'بوينت باسيريال' و 'سيرمان' ؟ ,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"للإقتران من إشارة معامل الارتباط ليس لها معنى في حالة المتغيرات النوعية،وبالتالي ينصب الإهتمام فقط على إتجاه العلاقة دون قوتها ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"تدل إشارة معامل الانحدار على نوع الاتجاه العام (زيادة و نقصان)   ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"إحدى طرق تعيين الإتجاه العام الخطي استخدام,",S
+",",
+"اسلوب الانحدار الخطي البسيط,",1
+"معامل الانحدار,",
+"النموذج الخطي البسيط,",
+"… تدل على نوع b إشارة معامل الانحدار ,",S
+",",
+"النموذج الخطي البسيط,",
+" الاتجاه العام,",
+"اسلوب الانحدار الخطي البسيط,",1
+"يتم استخدام النموذج الخطي ل,",S
+",",
+"حساب السلسلة الزمنية,",1
+"للتنبؤ بالقيمة المستقبلية,",
+"لا شيء مما سبق,",
+"يمكن استخدام معادلة الاتجاه العام الخطي للسلسلة الزمنية على,",S
+",",
+"أن يكون الزمن بعيدًا أكثر من طول نصف الفترة المعطاه,",
+" ألا يكون الزمن بعيدًا أكثر من طول نصف الفترة المعطاه,",1
+"لا شيء مما سبق,",
+"يتم استخدام النموذج الخطي لحساب السلسلة الزمنية على وجود,",S
+",",
+"علاقة ارتباط ذاتي بين المشاهدات,",1
+"مشاهداتها مستقلة عن بعضها البعض,",
+"لا شيء مما سبق,",
+"يتم استخدام نموذج الانحدار الخطي لحساب السلسلة الزمنية على وجود,",S
+",",
+"علاقة ارتباط ذاتي بين المشاهدات,",
+"مشاهداتها مستقلة عن بعضها البعض,",1
+"لا شيء مما سبق,",
+"يمكن تمثيل التوزيع التكراري باستخدام,",S
+"المضلع التكراري,",
+"حساب مقاييس النزعة المركزية والتشتت,",
+"المدرج التكراري,",
+"كل ما سبق,",1
+"عبارة عن أسلوب احصائي يقوم بصياغة اثر عدة ظواهر مؤثرة على ظاهرة معينة,",S
+",",
+"التنبؤ,",
+"تحليل الانحدار,",1
+"معامل الاقتران,",
+"بمقدار وحدة واحدة؟ X المناظرة للتغير في Y ميل الخط يمثل كمية التغير في  ,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"اشارة معامل الانحدار تدل على نوع الارتباط,",S
+",",
+"عكسي,",
+"طردي,",
+"عكسي او طردي,",1
+"لا توجد علاقة بين معامل الانحدار ومعامل الارتباط الخطي,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"اذا كانت قيمة معامل الارتباط تساوي 1 فان قيمة معامل الانحدار تساوي 1؟,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"  بين  r  تتراوح قيمة معامل الارتباط ,",S
+",",
+"  1<= r <=1-         ,",1
+"2 <= r <=1-      ,",
+"2 <= r <=2-     ,",
+"عندما تكون قيمة معامل الارتباط مساوية للصفر فذلك يدل على,",S
+",",
+"وجود علاقة بين المتغيرين,",
+"عدم وجود علاقة بين المتغيرين,",1
+",",
+"عندما تكون قيمة الوسط الحسابي تساوي قيمة الوسيط تساوي قيمة المنوال فإن ذلك يدل على ان البيانات,",S
+",",
+"ملتو لليسار,",
+"ملتو لليمين,",
+"متماثل,",1
+"قامت شركة بإنتاج 100 قطعة منتج، وتم فحص عشوائي لـ 20 قطعة من هذه المنتجات. وتبين أن 4 منها معيوبة. ما هي الاحتمالية للعثور على منتج عيب في الدفعة القادمة من 10 قطع؟ \n ,",S
+",",
+"0.4,",1
+"0.6,",
+"0.2,",
+"إذا كان لدينا صندوق يحتوي على 7 كرات حمراء و 5 كرات زرقاء و 3 كرات صفراء، ما هي احتمالية اختيار كرة حمراء أو زرقاء؟ \n ,",S
+",",
+"12/20,",
+"12/15,",1
+"12/25,",
+"في مجموعة من 10 بطاقات مرقمة من 1 إلى 10، يتم اختيار بطاقة عشوائية. ما هي احتمالية أن يكون الرقم المختار أكبر من 7؟,",S
+",",
+"1/5,",
+"3/10,",1
+"2/5,",
+"إذا أردنا اختيار عدد ما بين 1، 15 عشوائيًا، ما هي احتمال أن المختار هو من مضاعفات العدد 6؟,",S
+",",
+"1/7,",
+"2/6,",
+"2/15,",1
+"كيس من الحلوى يحتوي على  حبة 20 بطعم البطيخ، و45 حبة بطعم التفاح الحامض، و30 حبة بطعم البرتقال و5 حبات من الحلوى القطنية، ما احتمال الحصول على حبة واحدة بنكهة البطيخ \n ,",S
+",",
+"1/5,",1
+"3/8,",
+"2/5,",
+"عند رمي قطعتين من النرد معاً، ما هو احتمال أن تكون النتيجة مجموعها 7، أو تتضمن العدد 3؟,",S
+",",
+"5/13,",
+"5/12,",1
+"5/15,",
+"إذا كانت هناك 5 بطاقات مرقمة: 2 ، 3 ، 4 ، 5 ، 6، جد احتمال سحب عدد أولي، وإعادة وضعه مرة أخرى في المجموعة، ثم احتمالية اختيار عدد مركب ,",S
+",",
+"6/23,",
+"6/25,",1
+"6/26,",
+"يوجد داخل أحد الصفوف 60 طالب، يرتدي 7/12 من الطلاب قمصاناً حمراء و1/3 من الطلاب يرتدون قمصاناً زهرية، وبقية الطلاب يرتدون قمصاناً برتقالية، اذا تم اختيار طالب بشكل عشوائي ما احتمال أن يكون قميصه برتقالي اللون؟,",S
+",",
+"1/12,",1
+"1/4,",
+"1/8,",
+"يعرفُ بإنه مقدار يأخذ قيماً رقمية مختلفة والتي تعبر عن النتائج التجربة العشوائية,",S
+",",
+"الاحتمالات,",
+"المتغير الثابت,",
+"المتغير العشوائي,",1
+"يعتبر المتغير العشوائي متغير منفصل إذا كان ينتمي إلى مجموعة محدودة حتى ولو لم تكن هذه القيم قيماً صحيحة,",S
+",",
+"صحيح,",1
+"خاطئ,",
+"يحتمل الصواب والخطأ,",
+"اذا كان عدد فرق دوري جميل 20 فريقا فاذا كان كل فريق يلتقي مع الفريق الاخر مرة واحدة أي يتم اختيار فريقين في كل مرة فكم عدد المباريات الكلية لدوري جميل (المطلوب عدد طرق اختيار فريقين من 20 فريق ) ,",S
+",",
+"180,",
+"190,",1
+"380,",
+"القاء قطعتي نرد وظهور رقم ما على الزهرة الأولى لا يؤثر ولا يتاثر بما ظهر على القطعة الثانية تمثل,",S
+",",
+"حادثة متماثلة ,",
+"حادثة مستقلة ,",1
+"  حادثة مؤكدة,",
+"الحادثة ............. تكون عندما لا يكون للتجربة أي نواتج متعلقة بالحادثة المذكورة ,",S
+",",
+"المستقلة ,",
+"المستحيلة,",
+"المؤكدة,",1
+"حادثة تمثل ظهور صورتين ,",S
+",",
+"حادثة متماثلة ,",
+"حادثة بسيطة,",
+"حادثة مركبة ,",1
+"بكم طريقة يمكن اختيار رجلين من بين اربع رجال ؟,",S
+",",
+"6,",1
+"4,",
+"8,",
+"القاء زهرة النرد متزنة بطريقة غير متحيزة مرة واحدة فان ظهور احد الأوجه يمنع ظهور الأوجه الأخرى تمثل,",S
+",",
+"حادثة متنافية    ,",1
+"حادثة مستقلة    ,",
+"حادثة مستحيلة ,",
+"هو احتمال يختلف باختلاف الخبرة لدى الشخص ولا يعتمد على أساس رياضي في حساب قيمته,",S
+",",
+"Objective  ,",
+"event  ,",
+"subjective  ,",1
+"  يطلق عليه أيضا لفظ Sample space   ,",S
+",",
+"Possible cases,",1
+"imposable event,",
+"all above,",
+"اذا كان لديك عشر بطاقات مرقمة من 1 الى 10 موضوعة على طاولة بشكل عشوائي ومقلوبة ثم سحبت احدى هذه البطاقات ما احتمال الحصول على بطاقة تحمل رقم يقبل القسمة على 3 ,",S
+",",
+"0.1,",
+"0.3,",1
+"none above,",
+"هي الحوادث التي يكون لها نفس فرصة الحدوث ,",S
+",",
+"المتماثلة,",1
+"المستقلة ,",
+"الأكيدة,",
+"عائلة متكونه من 4 اطفال ما هو احتمال ان يكن عدد الذكور اكثر من عدد الاناث؟,",S
+",",
+"8/16,",
+"2/16,",
+"5/16,",1
+"رميت قطعة نرد مرتين ما هو احتمال ظهور مجموع 13 علو وجهي النرد؟,",S
+",",
+"1/2,",
+"0,",1
+"1,",
+"صندوق فيه بطاقات مرقمه من 1-50 سحبت بطاقة عشوائيا ما هو احتمال تحمل عدد مربع كامل؟,",S
+",",
+"7/50,",1
+"9/50,",
+"1/2,",
+"1-P(A')=…..,",S
+",",
+"1,",
+"P(A),",1
+"P(A'),",
+"رميت قطعة نرد مره واحده ماهو احتمال ظهور عدد فردي او زوجي؟ ,",S
+",",
+"1/6,",
+"5/6,",1
+"3/6,",
+"صندوق فيه 10 كرات حمراء و 5كرات خضراء و 7 كرات صفراء سحبت كرة عشاوائيا ماهو احتمال ان تكون حمراء او صفراء؟,",S
+",",
+"7/22,",
+"17/22,",1
+"12/22,",
+"رميت قطعتي نرد مره واحده ما هو احتمال ظهر تساوي النردين؟,",S
+",",
+"7/26,",1
+"9/26,",
+"5/26,",
+"رميت قطعة نقود خمس مرات متتاليه ما هو احتمال ظهور الصورة مرة واحده على الاقل؟,",S
+",",
+"28/32,",
+"31/32,",1
+"20/32,",
+"2P(A) + 2P(A') =3P(X) فإن P(X)=,",S
+",",
+"1/3,",
+"2/3,",1
+"1/4,",
+"اذا كان \n P(A)=P(B)=1/2 , P(AB)=1/2 \n فإن \n A,B مستقلتان ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"ماذا يعني مصطلح ""تعداد السكان""؟,",S
+",",
+"جمع المعلومات عن عدد الأفراد في منطقة معينة عند نقطة زمنية محددة,",1
+"تحليل البيانات الإحصائية المتعلقة بالسكان,",
+"تقدير عدد السكان بناءً على العوامل المختلفة,",
+"يتميز بالسهولة حيث يتم حصر الأشخاص في مكان وجودهم وقت التعداد بصرف النظر عن كونهم من سكان هذا المكان أو زائرين بصفة مؤقتة ,",S
+",",
+"الأساس الواقعي,",
+"الأساس الحقيقي,",1
+"الأساس العملي,",
+"هي أداة شائعة تستخدم في تعداد السكان,",S
+",",
+"الاستبيانات,",1
+"الجداول الإحصائية,",
+"النماذج الإحصائية,",
+"ما هي الفترة الزمنية الشائعة لإجراء تعداد السكان؟,",S
+",",
+"كل عام,",
+"كل خمس سنوات,",
+"كل عشر سنوات,",1
+"ما هو المعيار الشائع لتصنيف السكان حسب العمر؟,",S
+",",
+"الفئات العمرية,",1
+"المستوى التعليمي,",
+"الفئات الاجتماعية,",
+"ماذا يعني مصطلح ""المسوحات السكانية البيئية""؟,",S
+",",
+"تحليل البيانات الإحصائية للسكان في البيئات الطبيعية,",
+"المسوح المتخصصة في جانب معين بالخصوبة او الاقتصادية ...الخ,",1
+"تحديد تأثير السكان على البيئة المحيطة بهم,",
+"تعتبر اهم مصدر من مصادر الإحصاءات السكانية ,",S
+",",
+"تعداد السكان,",
+"المسوحات السكانية البيئية,",
+"الإحصاءات الحيوية,",1
+"ما هو المجال الذي يغطيه الإحصاءات الحيوية؟,",S
+",",
+"الكائنات الحية والتنوع البيولوجي,",1
+"الإحصاءات الاقتصادية والديموغرافية,",
+"البيانات الجيوغرافية والتنمية الاجتماعية,",
+"أغراض تخدم الإحصاءات الحيوية,",S
+",",
+"تنظيم وتحسين الخدمات الخاصة والعامة,",
+"المقارانات المحلية والدولية ,",
+"كل ما سبق,",1
+"يفرض ان تعدد السكان في احدى الدول =20 مليون نسمة في منتصف عام 2004 وكانت مساحة هذه الدولة =7 مليون كم2 و عدد حجرات المساكن =10 مليون حجرة فإن ,",S
+",",
+"كثافة السكان  =2.86  شخص لكل كم  ,  كثافة المسكن=2,",
+"كثافة السكان  =2.86  شخص لكل كم2   ,  كثافة المسكن=2,",1
+"كثافة السكان  =2.70  شخص لكل كم2   ,  كثافة المسكن=2,",
+"ماهو معدل مواليد الخام ؟,",S
+",",
+"عدد الاطفال المولودين احياء لكل 1000 نسمة  في منتصف العام,",1
+"عدد الاطفال المولودين احياء لكل 100 نسمة  في منتصف العام ,",
+"عدد الاطفال المولودين احياء لكل 10000 نسمة  في منتصف العام ,",
+"معدل التوالد يساوي ,",S
+",",
+"1200,",1
+"800,",
+"1000,",
+"معدل خصوبة العام يساوي,",S
+",",
+"200,",1
+"100,",
+"300,",
+"اذا كان عدد مواليد احياء في دولة ما عام 1410هو200000 مولودا حيا وكان عدد النساء اللاتي في سن الحمل 900000 فان معدل الخصوبة يساوي,",S
+",",
+"22.2,",1
+"23.3,",
+"24.4,",
+"معدل الوفيات من الفئة العمرية (40_50) يساوي,",S
+",",
+"5,",1
+"4,",
+"3,",
+"معدل وفيات الخام يساوي ,",S
+",",
+"10,",1
+"15,",
+"20,",
+"اذا كان عدد سكان دولة ما في منتصف عام 1410 هجري هو 900000 نسمة توفي منهم 1500نسمة في نفس العام وكان عدد المواليد احياء في نفس العام هو 7000  اوجد معدل الوفيات الخام ,",S
+",",
+"1.67,",1
+"2.43,",
+"1.56,",
+"الأساس الذي يتم فيه حصر الأشخاص في مكان وجودهم وقت التعداد بصرف النظر عن كونهم من سكان هذا المكان أصلا او زائرين بصفة مؤقتة ,",S
+",",
+"الأساس الحقيقي ,",1
+"الأساس الفعلي ,",
+"الأساس النظري,",
+"من مصادر البيانات السكانية ,",S
+",",
+"الإحصاء الحيوي ,",
+"المسوح السكانية البيئية,",
+"كل ما سبق,",1
+"اذا كانت الرقم القياسي الأمثل للأسعار اكبر من 100% فذلك يدل على ان الأسعار,",S
+",",
+"ارتفعت,",1
+"انخفضت,",
+"لم تتأثر,",
+"العلاقة بين الرقم القياسي للأسعار و القوة الشرائية لعملة الدولة علاقة,",S
+",",
+"طردية ,",
+"عكسية,",1
+"مكافئة,",
+"أسعار السنة الحالية تسمى اسعار سنة,",S
+",",
+"الأساس,",
+" المقارنة,",1
+"القياس,",
+"نقيس التغير في الأسعار عادة من سنة....إلى سنة  ,",S
+",",
+"المقارنة- الأساس,",
+"الأساس- المقارنة,",1
+"الحالية- المقارنة,",
+"إذا كان الرقم القياسي للأسعار <100 فإن القوة الشرائية للمستهلك ,",S
+",",
+"تزداد,",1
+"لا تتغير,",
+"تستقر,",
+"إذا كان الرقم القياسي للأسعار<100 فهذا يدل على ....الأسعار ,",S
+",",
+"زيادة ,",
+"نقص,",1
+"استقرار,",
+"إذا كان الرقم القياسي للأسعار >100 فإن القوة الشرائية للمستهلك  ,",S
+",",
+"تزداد,",
+"تقل,",1
+"لا تتغير,",
+"إذا كان الرقم القياسي للأسعار المرجح بسنة الأساس%69.40 ، والمرجح بسنة المقارنة %69.39 , والرقم البسيط للأسعار %69.23 ، فإن الرقم القياسي الأمثل,",S
+",",
+"69.39%,",1
+"69.40%,",
+"69.23%,",
+"(فيتشر) هو الرقم القياسي البسيط للأسعار,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"لاسبير هو الرقم القياسي المرحج للأسعار بسنة الأساس,",S
+",",
+"صح,",1
+"خطأ,",
+",",
+"باتشي هو الرقم القياسي للأسعار بسنة المقارنة ,",S
+",",
+"صح,",
+"خطأ,",1
+",",
+"1.في منطقة معينة، تم تسجيل عدد الوفيات خلال الأعوام الخمسة الماضية كما يلي: في العام الأول كان هناك 100 حالة وفاة، في العام الثاني كان هناك 120 حالة وفاة، في العام الثالث كان هناك 150 حالة وفاة، في العام الرابع كان هناك 180 حالة وفاة، وفي العام الخامس كان هناك 200 حالة وفاة. ما هو معدل الوفيات الخام لهذه المنطقة خلال الفترة الخمسية؟,",S
+",",
+" 150حالة وفاة,",1
+"130حالة وفاة,",
+"160حالة وفاة,",
+"2.في منطقة معينة، تم تسجيل عدد الوفيات لفئة عمرية محددة خلال الأعوام الخمسة الماضية كما يلي: في الفئة العمرية 50-60 كان هناك 100 حالة وفاة، في الفئة العمرية 60-70 كان هناك 120 حالة وفاة، في الفئة العمرية 70-80 كان هناك 150 حالة وفاة. ما هو معدل الوفيات لهذه الفئة العمرية خلال الفترة الخمسية؟,",S
+",",
+" 120حالة وفاة,",
+"100حالة وفاة,",
+"80حالة وفاة,",1
+"3.في مستشفى معينة، تم تسجيل عدد الوفيات للأطفال الرضع (أقل من سنة) خلال الأعوام الخمسة الماضية كما يلي: في الفئة العمرية 0-3 أشهر كان هناك 40 حالة وفاة، في الفئة العمرية 4-6 أشهر كان هناك 60 حالة وفاة، في الفئة العمرية 7-9 أشهر كان هناك 35 حالة وفاة. ما هو معدل الوفيات للأطفال الرضع خلال الفترة الخمسية؟,",S
+",",
+" 25حالة وفاة,",
+"80حالة وفاة,",1
+"55حالة وفاة,",
+"4.في مستشفى معين، تم تسجيل عدد المرضى المسجلين خلال الأشهر الستة الماضية كما يلي: في شهر يناير كان هناك 200 مريض، في شهر فبراير كان هناك 180 مريض، في شهر مارس كان هناك 220 مريض. ما هو معدل الخام لعدد المرضى المسجلين في المستشفى خلال الأشهر الستة الماضية؟,",S
+",",
+"160مريض ,",
+"185مريض,",
+"200مريض,",1
+"5.في إحدى الدول، تم إجراء دراسة لمعرفة عدد الأشخاص الذين يعانون من الأمية في الفئة العمرية من 18 سنة فما فوق كما يلي: في المدينة A كان هناك 1000 شخص يعانون من الأمية، في المدينة B كان هناك 1500 شخص يعانون من الأمية. ما هو معدل الخام للأمية في الدولة بأكملها؟,",S
+",",
+"1000شخص,",
+"1500شخص,",
+"2500شخص,",1
+"6.في منطقة معينة، تم تسجيل عدد الشركات النشطة في القطاع الصناعي خلال العام الماضي كما يلي: في قطاع التصنيع كان هناك 200 شركة نشطة، في قطاع البناء كان هناك 150 شركة نشطة. ما هو معدل النشاط الاقتصادي الخام في المنطقة؟,",S
+",",
+"100شركة,",
+"175شركة,",1
+"200شركة,",
+"7.في إحدى الدول، تم إجراء دراسة لمعرفة عدد المشاريع النشطة في قطاع السياحة وقطاع النقل خلال الربع الأخير من العام الماضي كما يلي: في قطاع السياحة كان هناك 500 مشروع نشط، في قطاع النقل كان هناك 200 مشروع نشط. ما هو معدل النشاط الاقتصادي العام في الدولة؟,",S
+",",
+"200مشروع,",
+"250مشروع,",
+"350مشروع,",1
+"أي ممايلي لايعتبر من مقاييس الهجرة الهامة,",S
+",",
+"هجرة داخلية,",1
+"معدل الهجره الوافدة لمنطقة معينة,",
+"معدل الهجره الصافية,",
+"9.في دولة معينة، تم تسجيل عدد الوافدين الجدد خلال العام الماضي كما يلي: في الربع الأول كان هناك 10,000 وافد، في الربع الثاني كان هناك 8,000 وافد، في الربع الثالث كان هناك 12,000 وافد، وفي الربع الرابع كان هناك 9,000 وافد. ما هو معدل الهجرة الوافدة السنوي في الدولة؟,",S
+",",
+"8000وافد/سنة,",
+"9750وافد/سنة,",1
+"10000وافد/سنة,",
+"10.في دولة معينة، تم تسجيل عدد الوافدين خلال العام الماضي كما يلي: عدد الوافدين الجدد كان 15,000، وعدد المغادرين كان 10,000. ما هو معدل الهجرة الصافية السنوي في الدولة؟,",S
+",",
+"5000وافد/سنة,",1
+"10000وافد/سنة,",
+"15000وافد/سنة,",

@@ -1,4 +1,4 @@
-package com.mo.examprep;
+package com.statistics.examprep;
 
 import com.google.gson.Gson;
 

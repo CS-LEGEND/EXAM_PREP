@@ -107,7 +107,7 @@
 						android:layout_height="wrap_content"
 						android:padding="8dp"
 						android:gravity="center_horizontal|center_vertical"
-						android:text="How many questions do you want to practice (1-357)\?"
+						android:text="How many questions do you want to practice (1-192)\?"
 						android:textSize="18sp"
 						android:textColor="#000000" />
 					<com.google.android.material.textfield.TextInputLayout
@@ -195,7 +195,7 @@
 							android:padding="8dp"
 							android:text="Question"
 							android:textSize="20sp"
-							android:textColor="#000000"
+							android:textColor="#000000" 
 							android:textIsSelectable="true" />
 					</LinearLayout>
 					<LinearLayout
@@ -215,8 +215,7 @@
 							android:gravity="center_horizontal|center_vertical"
 							android:text="Choice 1"
 							android:textSize="18sp"
-							android:textColor="#006E85"
-							android:textIsSelectable="true" />
+							android:textColor="#006E85" />
 						<TextView
 							android:id="@+id/ch2"
 							android:layout_width="match_parent"
@@ -227,8 +226,7 @@
 							android:gravity="center_horizontal|center_vertical"
 							android:text="Choice 2"
 							android:textSize="18sp"
-							android:textColor="#006E85" 
-							android:textIsSelectable="true"/>
+							android:textColor="#006E85" />
 						<TextView
 							android:id="@+id/ch3"
 							android:layout_width="match_parent"
@@ -239,8 +237,7 @@
 							android:gravity="center_horizontal|center_vertical"
 							android:text="Choice 3"
 							android:textSize="18sp"
-							android:textColor="#006E85"
-							android:textIsSelectable="true" />
+							android:textColor="#006E85" />
 						<TextView
 							android:id="@+id/ch4"
 							android:layout_width="match_parent"
@@ -251,8 +248,7 @@
 							android:gravity="center_horizontal|center_vertical"
 							android:text="Choice 4"
 							android:textSize="18sp"
-							android:textColor="#006E85"
-							android:textIsSelectable="true" />
+							android:textColor="#006E85" />
 						<TextView
 							android:id="@+id/ca"
 							android:layout_width="match_parent"
