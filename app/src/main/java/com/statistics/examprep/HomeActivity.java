@@ -1,4 +1,4 @@
-package com.statistics.examprep;
+package com.mo.examprep;
 
 import android.animation.*;
 import android.app.*;

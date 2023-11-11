@@ -1,6 +1,6 @@
-package com.statistics.examprep;
+package com.mo.examprep;
 
-import com.statistics.examprep.HomeActivity;
+import com.mo.examprep.HomeActivity;
 import android.animation.*;
 import android.app.*;
 import android.app.Activity;

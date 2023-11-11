@@ -1,4 +1,4 @@
-package com.statistics.examprep;
+package com.mo.examprep;
 
 import android.app.Activity;
 import android.content.Context;
